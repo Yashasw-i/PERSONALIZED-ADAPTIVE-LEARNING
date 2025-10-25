@@ -1,0 +1,1502 @@
+Fid,gender,age,location_type,preferred_time,preferred_language_for_learning,prefered_location ,learning_group,average_time_ spent,elearning_style,Label
+172.217.12.170-10.42.0.211-443-44342-6,Female,40,Urban,Afternoon,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-47.89.68.225-47485-443-6,Male,40,Urban,Morning,English,Class Room,Arts,Less than an hour,VERBAL,1
+10.42.0.42-52.179.189.71-54061-443-6,Male,55,Rural,Evening,English,Home,Commerce,Less than an hour,NON VERBAL,0
+216.58.219.194-10.42.0.42-443-48094-6,Male,40,Urban,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+180.76.182.155-10.42.0.211-80-60586-6,Male,40,Rural,Morning,English,Home,other,Less than an hour,NON VERBAL,0
+172.217.12.162-10.42.0.151-443-41454-6,Male,30,Urban,Evening,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.10.130-10.42.0.151-443-56907-6,Female,40,Urban,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.3.106-10.42.0.211-443-41106-6,Male,45,Urban,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-10052-53-17,Male,50,Urban,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-52.0.93.246-45776-443-6,Male,45,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-121.29.54.142-59447-80-6,Male,30,Rural,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.6.202-10.42.0.211-443-47447-6,Female,30,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+172.217.12.170-10.42.0.151-443-49883-6,Male,35,Rural,Late Night,English,w Park or Garden,Science,s 6 and Above,NON VERBAL,0
+173.194.175.188-10.42.0.151-5228-34789-6,Male,40,Urban,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+239.255.255.250-10.42.0.1-1900-44477-17,Male,45,Rural,Evening,English,Central Library,other,Less than an hour,NON VERBAL,0
+10.42.0.151-104.254.66.16-54085-80-6,Male,40,Rural,Late Night,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.151-443-34088-6,Male,60,Rural,Evening,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.42-54.192.38.154-59370-443-6,Male,35,Urban,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+180.149.136.194-10.42.0.211-80-57315-6,Male,60,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-66.198.178.91-52456-443-6,Male,45,Urban,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-40150-53-17,Male,30,Rural,Evening,English,Campus Ground,other,Less than an hour,NON VERBAL,0
+183.79.248.124-10.42.0.211-443-40398-6,Male,40,Rural,Morning,English,w Campus Ground,Arts,Less than an hour,NON VERBAL,0
+10.42.0.151-91.190.219.146-54317-443-6,Female,55,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+169.45.214.248-10.42.0.151-5222-56112-6,Male,35,Urban,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-49857-53-17,Male,45,Rural,Late Night,English,Central Library,Arts,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-41614-53-17,Male,35,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-9903-53-17,Male,25,Rural,Morning,English,College lab,Commerce,2-4 hours,NON VERBAL,0
+10.42.0.42-13.66.26.172-53130-443-6,Male,60,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.10.100-10.42.0.151-443-41030-6,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.74-10.42.0.151-443-57211-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.170-10.42.0.42-443-52998-6,Male,65,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+206.126.112.142-10.42.0.151-443-39311-6,Male,55,Urban,Late Night,English,w Other places,Science,Less than an hour,NON VERBAL,0
+172.217.10.42-10.42.0.42-443-56914-6,Female,20,Urban,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+203.205.158.23-10.42.0.151-80-48808-6,Male,40,Urban,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-41717-17,Male,50,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-104.244.43.131-48232-443-6,Male,40,Urban,Afternoon,English,Park or Garden,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-119.146.74.31-58603-443-6,Male,25,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-98.139.225.43-50554-443-6,Female,55,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+192.229.173.173-10.42.0.211-443-43640-6,Male,35,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-98.139.180.180-37794-443-6,Male,20,Rural,Morning,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-23.21.95.195-47277-443-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-5070-53-17,Female,50,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+203.205.158.60-10.42.0.42-80-33363-6,Male,60,Rural,Late Night,English,College lab,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-104.244.42.129-53464-80-6,Male,40,Urban,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+175.100.207.233-10.42.0.211-80-47336-6,Male,80,Urban,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-20557-53-17,Female,20,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.206.166.62-42171-80-6,Female,25,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
+198.11.188.78-10.42.0.42-443-45000-6,Male,30,Urban,Morning,English,w College lab,Science,Less than an hour,NON VERBAL,0
+172.217.10.65-10.42.0.211-443-40213-6,Male,50,Urban,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-91.190.216.60-36975-12350-6,Female,60,Rural,Morning,English,Central Library,Science,a 2-4 hours,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Male,50,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+172.217.7.164-10.42.0.42-443-38539-6,Female,55,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-50679-17,Male,50,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.6.202-10.42.0.42-443-33738-6,Male,30,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-14200-53-17,Male,40,Rural,Morning,English,Class Room,Science, Less than an hour,NON VERBAL,0
+180.149.136.194-10.42.0.211-80-48637-6,Male,60,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-125.88.193.226-57182-80-6,Female,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.192.108.27-53833-80-6,Male,30,Urban,Late Night,English,Central Library,Science, Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-31723-53-17,Male,40,Urban,Morning,English,Home,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.211-111.202.114.77-49801-443-6,Male,30,Rural,Morning,English,Home,Commerce,Less than an hour,VERBAL,1
+203.130.53.126-10.42.0.211-80-52064-6,Male,35,Rural,Morning,English,Home,Arts,Less than an hour,NON VERBAL,0
+172.217.10.10-10.42.0.151-443-39296-6,Male,50,Urban,Morning,English,Home,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-24839-17,Female,35,Rural,Afternoon,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.10.131-10.42.0.151-443-48358-6,Male,60,Rural,Morning,English,Home,Commerce,Less than an hour,VERBAL,1
+140.205.140.87-10.42.0.211-80-39636-6,Male,40,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+203.205.151.47-10.42.0.151-80-60295-6,Female,45,Urban,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-104.244.43.227-49848-443-6,Male,50,Urban,Morning,English,w Home,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-46697-53-17,Male,35,Urban,Late Night,English,w Other places,Arts,Less than an hour,NON VERBAL,0
+10.42.0.211-52.84.29.154-57116-443-6,Male,40,Urban,Late Night,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-32711-53-17,Male,55,Rural,Morning,English,Central Library,other,Less than an hour,NON VERBAL,0
+10.42.0.211-66.231.239.124-55348-80-6,Female,50,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.42-123.59.190.237-58925-80-6,Male,45,Rural,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+216.58.219.226-10.42.0.211-443-44879-6,Female,50,Urban,Morning,English,w Home,Science, 6 and Above,VERBAL,1
+172.217.9.234-10.42.0.211-443-46345-6,Male,30,Rural,Evening,English,w Class Room,Arts,Less than an hour,NON VERBAL,0
+202.77.129.161-10.42.0.42-80-54595-6,Male,65,Urban,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-54.192.38.154-53349-443-6,Male,45,Rural,Evening,English,College lab,Science,2-4 hours,NON VERBAL,0
+216.58.217.163-10.42.0.151-443-48940-6,Male,20,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+152.163.56.2-10.42.0.211-443-48457-6,Male,45,Urban,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-55810-53-17,Male,60,Rural,Afternoon,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-115.239.210.141-51785-80-6,Male,40,Rural,Evening,English,Other places,Science,Less than an hour,VERBAL,1
+10.42.0.151-98.139.183.24-55392-443-6,Male,45,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+8.0.6.4-8.6.0.1-0-0-0,Male,55,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.9.227-10.42.0.151-443-57870-6,Male,40,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-47002-53-17,Male,40,Urban,Late Night,English,Other places,Science,Less than an hour,NON VERBAL,0
+172.217.10.110-10.42.0.151-443-38067-6,Male,35,Urban,Evening,English,College lab,Science, 2-4 hours,VERBAL,1
+206.126.112.142-10.42.0.151-443-33251-6,Female,50,Rural,Morning,English,Central Library,other,2-4 hours,VERBAL,1
+152.163.56.2-10.42.0.211-443-36198-6,Female,45,Rural,Morning,English,College lab,Science, 2-4 hours,VERBAL,1
+10.42.0.42-106.39.169.66-43528-443-6,Male,25,Rural,Morning,English,w Central Library,Science,2-4 hours,NON VERBAL,0
+180.149.136.194-10.42.0.151-80-54144-6,Male,25,Rural,Morning,English,Home,other,2-4 hours,VERBAL,1
+10.42.0.211-119.146.74.34-43439-80-6,Female,35,Rural,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.3.99-10.42.0.211-443-43528-6,Female,55,Urban,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+216.58.218.227-10.42.0.42-443-50608-6,Male,25,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-106.11.176.1-47627-443-6,Male,40,Urban,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-52.179.189.71-47940-443-6,Male,60,Urban,Afternoon,English,Home,Science, 2-4 hours,VERBAL,1
+198.11.136.24-10.42.0.211-443-52636-6,Female,50,Urban,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-39313-53-17,Male,25,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-66.231.239.124-34031-443-6,Female,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-104.254.66.16-50163-80-6,Female,30,Urban,Late Night,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+202.77.129.230-10.42.0.151-80-58523-6,Male,35,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+203.205.158.61-10.42.0.42-80-54023-6,Male,40,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-121.12.98.63-47417-80-6,Male,60,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.72-10.42.0.211-443-34855-6,Female,35,Urban,Late Night,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-61032-53-17,Male,50,Urban,Morning,English,College lab,Science, 2-4 hours,VERBAL,1
+172.217.10.234-10.42.0.151-443-46171-6,Male,35,Urban,Late Night,English,w Central Library,Science,2-4 hours,VERBAL,1
+172.217.11.10-10.42.0.211-443-49984-6,Male,55,Urban,Late Night,English,Other places,Science, 2-4 hours,VERBAL,1
+203.205.158.61-10.42.0.211-80-36236-6,Male,25,Urban,Afternoon,English,w Park or Garden,Science, 2-4 hours,NON VERBAL,0
+205.204.101.182-10.42.0.42-443-47869-6,Female,25,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.10.106-10.42.0.151-443-41606-6,Female,60,Rural,Morning,English,w Home,Science, 2-4 hours,NON VERBAL,0
+203.205.179.170-10.42.0.211-80-57794-6,Male,50,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-98.139.199.204-37890-443-6,Male,45,Rural,Evening,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-69.147.82.61-41637-443-6,Male,50,Rural,Afternoon,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-23.205.20.233-46359-80-6,Female,75,Rural,Morning,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.42-104.192.110.245-43650-443-6,Male,60,Rural,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-119.146.74.34-59087-80-6,Female,20,Rural,Afternoon,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-52.0.244.7-44682-443-6,Male,45,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+183.79.250.123-10.42.0.211-443-35953-6,Female,60,Rural,Evening,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-54.243.211.28-39454-443-6,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+151.101.21.140-10.42.0.211-443-33380-6,Male,25,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+203.205.147.229-10.42.0.151-80-36648-6,Female,25,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.3-10.42.0.151-443-60003-6,Male,30,Rural,Morning,English,w Home,Science, 2-4 hours,VERBAL,1
+172.217.12.131-10.42.0.211-443-37454-6,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.124-40223-80-6,Male,40,Rural,Late Night,English,w Home,Science,2-4 hours,NON VERBAL,0
+202.77.129.150-10.42.0.211-443-43404-6,Male,40,Rural,Evening,English,Home,Science, 5-6 hours,NON VERBAL,0
+172.217.3.106-10.42.0.151-443-43050-6,Female,45,Rural,Morning,English,Home,Science, 6 and Above,VERBAL,1
+183.79.250.123-10.42.0.211-443-36972-6,Male,40,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+202.77.129.150-10.42.0.42-80-40130-6,Male,50,Rural,Afternoon,English,w Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-54.230.51.24-50398-80-6,Female,65,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-95.213.11.133-37968-443-6,Female,50,Rural,Evening,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+222.73.28.96-10.42.0.42-80-43351-6,Male,30,Rural,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-66.102.255.61-51792-80-6,Male,60,Rural,Evening,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-29805-17,Female,45,Rural,Morning,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+172.217.11.14-10.42.0.151-443-35230-6,Male,60,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.42-72.21.206.53-45580-443-6,Male,45,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+209.10.120.26-10.42.0.211-80-43093-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.42-10.42.0.42-443-34080-6,Male,30,Rural,Morning,English,w Central Library,Science,g 5-6 hours,NON VERBAL,0
+183.79.17.108-10.42.0.151-443-60437-6,Male,40,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+172.217.12.195-10.42.0.211-443-49630-6,Male,40,Rural,Afternoon,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-119.146.74.34-42472-80-6,Male,60,Rural,Late Night,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.6.237-10.42.0.151-443-54754-6,Female,70,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+163.177.93.222-10.42.0.151-80-46812-6,Female,75,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-74.125.22.188-37263-5228-6,Female,45,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+202.77.129.230-10.42.0.151-80-47935-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+192.229.173.173-10.42.0.151-80-57987-6,Male,25,Rural,Evening,English,Class Room,Science,5-6 hours,VERBAL,1
+10.42.0.151-119.146.74.31-39177-443-6,Male,25,Rural,Morning,English,Park or Garden,Science,s 6 and Above,NON VERBAL,0
+10.42.0.151-10.42.0.1-13570-53-17,Male,40,Rural,Morning,English,Park or Garden,Science,2-4 hours,VERBAL,1
+222.73.28.96-10.42.0.211-80-34338-6,Male,45,Rural,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.42-115.239.210.141-47686-80-6,Male,40,Rural,Evening,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-45805-53-17,Male,45,Rural,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+174.35.73.135-10.42.0.211-80-41771-6,Male,60,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+180.149.134.221-10.42.0.42-80-41726-6,Male,40,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-28008-53-17,Female,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-36.110.213.174-55806-443-6,Female,35,Rural,Morning,English,College Lab,Science,6 and Above,NON VERBAL,0
+172.217.11.42-10.42.0.42-443-59418-6,Male,45,Rural,Afternoon,English,College Lab,Science,e 2-4 hours,NON VERBAL,0
+203.205.158.66-10.42.0.151-80-55440-6,Male,60,Rural,Late Night,English,w Central Library,Science,e 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-45516-53-17,Male,30,Rural,Late Night,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-119.146.74.33-47669-443-6,Male,40,Rural,Evening,English,Park or Garden,Science,Less than an hour,VERBAL,1
+216.58.219.226-10.42.0.211-443-55294-6,Male,50,Rural,Evening,English,Central Library,Science,2-4 hours,VERBAL,1
+172.217.3.110-10.42.0.151-443-44237-6,Male,50,Rural,Morning,English,Campus Ground,Science,e 2-4 hours,NON VERBAL,0
+172.217.10.42-10.42.0.211-443-57721-6,Male,60,Rural,Afternoon,English,Class Room,Science,Less than an hour,VERBAL,1
+172.217.8.4-10.42.0.42-443-46715-6,Female,25,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-106.11.94.27-35349-443-6,Male,30,Rural,Morning,English,To prepare class Assignments,Science, 2-4 hours,VERBAL,1
+172.217.10.138-10.42.0.42-443-40117-6,Male,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+192.229.173.173-10.42.0.151-80-46598-6,Male,55,Rural,Morning,English,w Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.12.206-10.42.0.211-443-52386-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-52116-53-17,Female,45,Rural,Afternoon,English,Home,Science,To borrow library materials,NON VERBAL,0
+10.42.0.211-64.71.142.120-37148-443-6,Female,20,Rural,Morning,English,w Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-11650-53-17,Female,55,Rural,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-125.39.83.108-40521-443-6,Male,50,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-106.11.129.143-45644-80-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.132-10.42.0.151-443-33413-6,Male,40,Rural,Evening,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-49656-53-17,Male,50,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.151-443-39666-6,Male,25,Rural,Morning,English,Other Places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-8693-53-17,Female,25,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+205.185.216.42-10.42.0.151-80-41143-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-31.13.80.5-35876-443-6,Female,35,Rural,Morning,English,Park or Garden,Science,s 6 and Above,VERBAL,1
+172.217.6.202-10.42.0.151-443-56471-6,Female,35,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-118.178.143.65-48075-80-6,Female,35,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-23.206.166.66-49063-80-6,Male,25,Rural,Morning,English,w Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-104.254.66.16-54073-80-6,Male,40,Rural,Morning,English,Central Library,Science, 5-6 hours,NON VERBAL,0
+10.42.0.42-14.29.93.243-56301-80-6,Male,30,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-104.193.88.109-53643-80-6,Male,25,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+216.58.219.202-10.42.0.151-443-36518-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+180.163.255.159-10.42.0.211-80-34697-6,Male,40,Rural,Late Night,English,Other Places,Science,2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-16366-17,Female,50,Rural,Late Night,English,Class Room,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.194.141.143-55295-443-6,Male,35,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-23.7.36.183-36332-80-6,Female,60,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-114.134.80.163-44391-80-6,Female,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+174.35.73.134-10.42.0.211-80-38368-6,Male,40,Rural,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-118.242.24.59-37885-18013-6,Male,40,Rural,Morning,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.11.14-10.42.0.211-443-37667-6,Female,40,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-9060-53-17,Male,40,Rural,Morning,English,Park or Garden,Science,2-4 hours,NON VERBAL,0
+180.149.136.194-10.42.0.211-443-60205-6,Male,55,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-23829-53-17,Female,45,Rural,Morning,English,Central Library,Science,e 2-4 hours,NON VERBAL,0
+10.42.0.211-74.125.192.188-60319-5228-6,Female,60,Rural,Evening,English,College Lab,Science,5-6 hours,NON VERBAL,0
+10.42.0.211-95.213.11.181-54022-80-6,Male,50,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-64.95.32.26-35204-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+216.58.217.67-10.42.0.211-443-54011-6,Male,35,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+180.149.138.210-10.42.0.211-80-52068-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.6.238-10.42.0.151-443-51144-6,Male,45,Rural,Morning,English,College Lab,Science,2-4 hours,VERBAL,1
+199.59.148.73-10.42.0.211-443-39193-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-74.125.22.188-50270-5228-6,Female,30,Rural,Evening,English,Class Room,Science,Less than an hour,NON VERBAL,0
+172.217.10.110-10.42.0.42-443-53546-6,Male,30,Rural,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+183.79.250.251-10.42.0.151-443-37631-6,Male,30,Rural,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.11.42-10.42.0.42-443-58728-6,Female,35,Rural,Afternoon,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-121.12.98.64-56590-80-6,Female,45,Rural,Late Night,English,Class Room,Science,Less than an hour,NON VERBAL,0
+174.129.31.175-10.42.0.211-443-54768-6,Male,60,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-74.119.119.68-44489-443-6,Male,55,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-52.84.135.137-57220-443-6,Male,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+157.55.235.173-10.42.0.42-40024-46360-17,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.9.227-10.42.0.151-443-60656-6,Male,35,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+216.58.219.202-10.42.0.151-443-46727-6,Female,30,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-88.212.196.103-43511-443-6,Female,60,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-64.71.142.125-35944-443-6,Male,25,Rural,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+172.217.10.133-10.42.0.151-443-55487-6,Male,40,Rural,Evening,English,College Lab,Science,Less than an hour,NON VERBAL,0
+180.76.138.25-10.42.0.211-80-47454-6,Male,35,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+203.205.158.61-10.42.0.151-80-40903-6,Male,35,Rural,Afternoon,English,w Home,Science,Less than an hour,NON VERBAL,0
+203.205.179.172-10.42.0.151-80-51767-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-119.146.74.31-35470-443-6,Male,60,Rural,Evening,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-54.173.220.111-54434-443-6,Male,25,Rural,Morning,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-52.22.102.34-53632-443-6,Male,40,Rural,Morning,English,w College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-55667-53-17,Male,55,Rural,Morning,English,w College Lab,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-18693-53-17,Male,35,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-104.244.43.163-43380-443-6,Male,45,Rural,Morning,English,w College Lab,Science,s 6 and Above,NON VERBAL,0
+10.42.0.211-10.42.0.1-7686-53-17,Male,55,Rural,Evening,English,Other Places,Science,Less than an hour,NON VERBAL,0
+172.217.10.106-10.42.0.151-443-48914-6,Female,40,Rural,Morning,English,w Park or Garden,Science, 6 and Above,NON VERBAL,0
+219.147.93.205-10.42.0.211-443-34071-6,Female,60,Rural,Morning,English,w Park or Garden,Science,2-4 hours,VERBAL,1
+180.149.136.194-10.42.0.42-80-46051-6,Male,45,Rural,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+172.217.12.163-10.42.0.42-443-48160-6,Male,40,Rural,Morning,English,w Class Room,Science, 2-4 hours,VERBAL,1
+220.181.7.190-10.42.0.211-443-33887-6,Female,60,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-40169-53-17,Male,40,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+202.77.129.230-10.42.0.151-80-58558-6,Female,75,Rural,Morning,English,Central Library,Science, Less than an hour,NON VERBAL,0
+172.217.10.46-10.42.0.151-443-41375-6,Male,45,Rural,Evening,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+157.240.2.36-10.42.0.211-443-32813-6,Male,50,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-12291-53-17,Female,40,Rural,Morning,English,Central Library,other, Less than an hour,NON VERBAL,0
+156.154.200.36-10.42.0.211-443-36404-6,Male,40,Urban,Evening,English,Park or Garden,Arts,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-35050-17,Male,40,Urban,Late Night,English,Class Room,Science,Less than an hour,NON VERBAL,0
+162.208.22.39-10.42.0.211-443-57667-6,Male,55,Urban,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+180.149.136.194-10.42.0.211-80-52226-6,Male,20,Rural,Morning,English,w Home,Arts,Less than an hour,VERBAL,1
+10.42.0.211-77.234.44.199-51601-80-6,Female,35,Urban,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-119.146.74.33-41908-443-6,Male,80,Rural,Afternoon,English,Campus Ground,Commerce,Less than an hour,VERBAL,1
+10.42.0.151-104.244.43.99-50129-443-6,Male,40,Rural,Late Night,English,w Campus Ground,Science,Less than an hour,NON VERBAL,0
+175.100.207.233-10.42.0.211-80-47310-6,Male,50,Urban,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-54.192.36.221-37415-443-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+157.240.3.19-10.42.0.211-443-35046-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-85.93.5.109-48953-80-6,Male,50,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-69.147.82.60-56405-443-6,Male,60,Rural,Morning,English,College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.96-53660-443-6,Male,35,Urban,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.42-14.29.93.243-52857-80-6,Male,55,Urban,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.3.106-10.42.0.42-443-60131-6,Female,60,Rural,Morning,English,Home,Science, 6 and Above,VERBAL,1
+183.3.235.80-10.42.0.151-80-40065-6,Male,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.3.106-10.42.0.211-443-60594-6,Male,50,Rural,Morning,English,w Other places,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.203.49.224-36526-443-6,Female,50,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-23.46.197.118-41352-443-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+203.205.158.61-10.42.0.211-80-60014-6,Female,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-23.66.240.213-55027-80-6,Male,35,Rural,Evening,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.12.174-10.42.0.211-443-35221-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+216.58.219.228-10.42.0.211-443-54688-6,Male,40,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+8.0.6.4-8.6.0.1-0-0-0,Male,55,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.35-10.42.0.211-80-39600-6,Male,40,Rural,Morning,English,College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-4179-53-17,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-23.208.87.120-57700-80-6,Male,25,Rural,Morning,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.42-66.198.24.253-57711-443-6,Female,40,Rural,Morning,English,College lab,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-52.84.37.172-40018-443-6,Female,50,Rural,Morning,English,w Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-112.90.74.178-48648-80-6,Male,40,Rural,Morning,English,College lab,Science,2-4 hours,VERBAL,1
+10.42.0.211-52.84.40.205-47600-443-6,Male,40,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.151-23.194.140.73-46795-443-6,Male,55,Rural,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+182.22.31.252-10.42.0.151-443-50779-6,Female,55,Rural,Late Night,English,w College lab,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-16886-53-17,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.170-10.42.0.211-443-41214-6,Female,55,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.124-55657-443-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.11.14-10.42.0.211-443-55117-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.42-58.220.11.230-52223-80-6,Female,60,Rural,Morning,English,Home,Commerce,Less than an hour,NON VERBAL,0
+202.77.129.150-10.42.0.151-80-51631-6,Male,55,Rural,Morning,English,Home,Commerce,Less than an hour,VERBAL,1
+175.100.207.231-10.42.0.211-80-55879-6,Male,25,Rural,Morning,English,Class Room,Arts,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-16906-53-17,Male,50,Rural,Morning,English,Central Library,Commerce, 2-4 hours,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-16788-17,Male,40,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-114.134.80.163-57192-443-6,Female,30,Rural,Morning,English,Central Library,Commerce,Less than an hour,VERBAL,1
+10.42.0.211-31.13.69.195-56545-443-6,Male,60,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.42-111.206.25.159-46340-80-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.12.163-10.42.0.211-443-44040-6,Male,50,Rural,Morning,English,Home,Commerce,2-4 hours,NON VERBAL,0
+208.80.154.224-10.42.0.211-443-47231-6,Female,35,Rural,Late Night,English,Home,Arts, 2-4 hours,NON VERBAL,0
+10.42.0.211-121.12.98.62-41147-80-6,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-123.125.46.161-49632-80-6,Male,25,Rural,Morning,English,Home,other, 2-4 hours,NON VERBAL,0
+172.217.12.206-10.42.0.151-443-37160-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+157.240.18.36-10.42.0.42-443-56022-6,Male,55,Rural,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.10.227-10.42.0.211-443-40737-6,Female,50,Rural,Afternoon,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-119.146.74.33-50805-443-6,Female,40,Rural,Morning,English,w Other places,Arts, 2-4 hours,NON VERBAL,0
+216.58.219.227-10.42.0.151-443-38221-6,Male,60,Rural,Afternoon,English,w Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-55671-53-17,Female,45,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.11.14-10.42.0.151-443-54822-6,Female,55,Rural,Late Night,English,Class Room,Science,2-4 hours,NON VERBAL,0
+172.217.10.78-10.42.0.151-443-42200-6,Male,60,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-104.254.66.16-47478-80-6,Male,50,Rural,Late Night,English,w Home,Science, 2-4 hours,NON VERBAL,0
+206.126.112.141-10.42.0.151-443-37248-6,Female,50,Rural,Morning,English,w Class Room,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-36.110.210.167-55476-80-6,Male,50,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-106.39.169.66-51882-80-6,Male,60,Rural,Afternoon,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.43.254.159-54229-443-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.106-10.42.0.42-443-49651-6,Female,50,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.170-10.42.0.211-443-33885-6,Male,40,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-23.203.49.224-39841-443-6,Male,45,Rural,Late Night,English,Other places,other, 5-6 hours,VERBAL,1
+10.42.0.211-23.206.166.62-42575-80-6,Female,45,Rural,Afternoon,English,Home,Science, 6 and Above,VERBAL,1
+10.42.0.151-10.42.0.1-3790-53-17,Male,35,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-76.13.28.70-33298-443-6,Male,45,Rural,Evening,English,w Home,other, 2-4 hours,NON VERBAL,0
+10.42.0.42-104.97.95.172-57436-80-6,Male,75,Rural,Morning,English,Other places,Science,Less than an hour,VERBAL,1
+172.217.10.142-10.42.0.42-443-60830-6,Male,70,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-54.192.38.154-53341-443-6,Male,50,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.95-42886-443-6,Female,40,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+172.217.6.234-10.42.0.151-443-49966-6,Male,35,Rural,Morning,English,w Central Library,Science, 2-4 hours,VERBAL,1
+140.205.172.65-10.42.0.211-443-57261-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-123.125.115.164-53676-443-6,Male,55,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+202.77.129.185-10.42.0.211-80-45813-6,Female,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+203.130.53.126-10.42.0.211-80-38980-6,Female,25,Rural,Morning,English,Home,Science,g 5-6 hours,NON VERBAL,0
+172.217.9.227-10.42.0.211-80-45047-6,Male,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.196-10.42.0.211-443-49324-6,Male,80,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-64029-53-17,Female,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.11.46-10.42.0.151-443-58290-6,Male,60,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-66.102.255.61-38991-80-6,Male,55,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-31.13.71.7-59286-443-6,Male,55,Rural,Late Night,English,w Central Library,Science, Less than an hour,VERBAL,1
+10.42.0.211-58.63.236.212-42038-443-6,Male,60,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-2400-17,Female,60,Rural,Evening,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.42-42.236.125.112-33516-80-6,Male,40,Rural,Late Night,English,Home,Science, Less than an hour,VERBAL,1
+10.42.0.42-64.71.142.96-41141-443-6,Male,60,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-19260-17,Male,35,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+222.73.28.96-10.42.0.211-80-58375-6,Male,50,Rural,Evening,English,w Central Library,Science,Less than an hour,VERBAL,1
+205.204.101.182-10.42.0.211-443-49143-6,Male,55,Rural,Afternoon,English,Other places,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-16011-53-17,Female,45,Rural,Late Night,English,w Park or Garden,Science, 2-4 hours,VERBAL,1
+219.142.78.162-10.42.0.151-80-54618-6,Female,30,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-58071-53-17,Male,40,Rural,Late Night,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-6793-53-17,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.3.110-10.42.0.151-443-56652-6,Male,35,Rural,Late Night,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-123.125.29.220-49199-80-6,Female,30,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.203.49.224-42376-443-6,Female,55,Rural,Late Night,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.151-98.139.199.205-36368-443-6,Male,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+220.243.219.55-10.42.0.42-80-59608-6,Male,60,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+220.243.219.55-10.42.0.211-80-55151-6,Male,55,Rural,Morning,English,Class Room,Science,2-4 hours,VERBAL,1
+10.42.0.211-64.71.142.125-58549-443-6,Male,45,Rural,Morning,English,College Lab,Science, 6 and Above,VERBAL,1
+209.85.201.188-10.42.0.151-5228-53409-6,Female,50,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+180.76.147.97-10.42.0.211-80-60005-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+8.0.6.4-8.6.0.1-0-0-0,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.42-40.127.169.165-59453-443-6,Male,50,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-114.134.80.163-35156-443-6,Male,25,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-103.7.30.118-56203-80-6,Male,50,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+206.126.112.141-10.42.0.42-443-40754-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-13923-53-17,Male,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Female,65,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+203.205.151.213-10.42.0.151-8080-38720-6,Male,40,Rural,Late Night,English,w Central Library,Science,Less than an hour,VERBAL,1
+180.149.134.221-10.42.0.211-80-45965-6,Male,60,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-59051-17,Male,60,Rural,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-63423-17,Male,40,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+180.149.153.234-10.42.0.151-80-44857-6,Male,60,Rural,Morning,English,w Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-40858-53-17,Female,60,Rural,Morning,English,College Lab,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-51704-53-17,Male,20,Rural,Morning,English,Park or Garden,Science,2-4 hours,VERBAL,1
+239.255.255.250-10.42.0.42-1900-57206-17,Female,25,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+172.217.3.35-10.42.0.42-443-47404-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-4524-17,Male,45,Rural,Evening,English,w Central Library,Science,Less than an hour,VERBAL,1
+182.22.25.252-10.42.0.211-443-57335-6,Male,60,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+144.2.1.1-10.42.0.211-80-55371-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+180.76.150.180-10.42.0.211-80-39052-6,Male,55,Rural,Late Night,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+157.240.2.20-10.42.0.211-443-56466-6,Male,35,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.6.234-10.42.0.211-443-55425-6,Female,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-59543-53-17,Male,25,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+203.205.151.212-10.42.0.151-80-47360-6,Male,60,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.3.99-10.42.0.151-443-59517-6,Male,60,Rural,Afternoon,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.151-23.208.147.183-48883-443-6,Male,35,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-119.6.229.36-42096-80-6,Male,40,Rural,Afternoon,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+239.255.255.250-10.42.0.151-1900-58127-17,Female,55,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-77.234.42.92-57427-443-6,Female,45,Urban,Late Night,English,Park or Garden,Science,2-4 hours,VERBAL,1
+175.100.207.232-10.42.0.211-80-46722-6,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-115.239.210.141-58262-443-6,Male,50,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-77.234.44.79-52881-443-6,Male,45,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-44769-53-17,Male,35,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+206.108.0.131-10.42.0.211-123-51817-17,Male,55,Rural,Afternoon,English,College Lab,Science,2-4 hours,VERBAL,1
+172.217.10.142-10.42.0.151-443-48214-6,Male,40,Urban,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+157.240.0.17-10.42.0.211-443-47115-6,Male,35,Urban,Morning,English,w Central Library,Science, 2-4 hours,VERBAL,1
+182.22.120.231-10.42.0.151-443-35655-6,Male,60,Urban,Evening,English,Class Room,Science, 2-4 hours,VERBAL,1
+182.22.24.124-10.42.0.211-443-41764-6,Female,45,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.6.200-10.42.0.211-443-41694-6,Female,25,Urban,Afternoon,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-69.147.82.61-41649-443-6,Female,20,Rural,Evening,English,Campus Ground,Science, 2-4 hours,VERBAL,1
+10.42.0.211-23.206.166.62-41407-80-6,Male,40,Rural,Evening,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.211-106.11.30.199-36364-443-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.10.106-10.42.0.211-443-59705-6,Male,30,Rural,Morning,English,To prepare class Assignments,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-46221-53-17,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.208.168.108-51833-443-6,Male,40,Rural,Morning,English,w Central Library,Science, 2-4 hours,VERBAL,1
+203.205.158.62-10.42.0.151-80-53994-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+180.149.153.234-10.42.0.211-80-53928-6,Male,40,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+205.204.101.182-10.42.0.211-443-49824-6,Male,40,Rural,Morning,English,w Central Library,Science, 5-6 hours,VERBAL,1
+192.229.173.173-10.42.0.42-443-33619-6,Female,30,Rural,Morning,English,w Central Library,Science, 6 and Above,VERBAL,1
+10.42.0.151-64.71.142.96-58074-80-6,Male,60,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-104.193.88.109-37740-80-6,Female,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.11.2-10.42.0.211-443-34919-6,Female,45,Rural,Late Night,English,w Home,Science,Less than an hour,VERBAL,1
+174.35.73.108-10.42.0.42-443-43146-6,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.205.20.233-43570-80-6,Male,45,Rural,Morning,English,Other Places,Science,Less than an hour,VERBAL,1
+172.217.11.46-10.42.0.151-443-48949-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-77.234.42.92-51512-443-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-52.84.142.16-47647-443-6,Male,45,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.10.237-10.42.0.42-443-59294-6,Male,45,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-43407-17,Male,40,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-54.192.38.7-43593-443-6,Female,30,Rural,Late Night,English,w Home,Science,g 5-6 hours,VERBAL,1
+172.217.12.131-10.42.0.151-443-34781-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.10.234-10.42.0.42-443-40909-6,Male,50,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+174.36.210.41-10.42.0.211-5222-55916-6,Male,40,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+202.77.129.150-10.42.0.211-443-48302-6,Female,60,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+151.101.1.140-10.42.0.151-443-56909-6,Male,60,Rural,Morning,English,Other Places,Science,Less than an hour,VERBAL,1
+10.42.0.211-58.63.236.212-46649-443-6,Male,55,Rural,Late Night,English,Class Room,Science, 2-4 hours,VERBAL,1
+203.205.158.60-10.42.0.151-80-40687-6,Male,35,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-95.213.11.133-33460-443-6,Male,45,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-106.11.92.16-55173-443-6,Female,65,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.3.98-10.42.0.211-443-34371-6,Male,50,Rural,Late Night,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-106.39.162.36-55111-80-6,Male,35,Rural,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+8.8.8.8-10.42.0.211-53-32368-17,Female,50,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-23550-53-17,Female,60,Rural,Morning,English,Park or Garden,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-30749-53-17,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+169.47.42.102-10.42.0.211-443-57250-6,Male,45,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+202.77.129.150-10.42.0.211-80-34481-6,Male,30,Rural,Morning,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-7017-53-17,Male,20,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-101.251.100.59-57972-9930-6,Male,55,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.9.227-10.42.0.211-80-59919-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+140.205.140.87-10.42.0.211-80-60932-6,Male,40,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.12.131-10.42.0.42-443-40747-6,Female,35,Rural,Late Night,English,College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-31.13.71.52-55031-80-6,Female,30,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-31723-53-17,Female,25,Rural,Late Night,English,Class Room,Science,Less than an hour,VERBAL,1
+172.217.3.99-10.42.0.211-443-51370-6,Male,40,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.10.68-10.42.0.151-443-36254-6,Female,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-95.154.220.116-34342-80-6,Female,40,Rural,Morning,English,w Park or Garden,Science,2-4 hours,VERBAL,1
+10.42.0.211-77.234.44.200-51293-80-6,Male,40,Rural,Late Night,English,Class Room,Science, 5-6 hours,NON VERBAL,0
+172.217.10.3-10.42.0.42-443-40122-6,Male,55,Rural,Morning,English,Central Library,Science, 6 and Above,VERBAL,1
+10.42.0.211-123.125.29.220-55261-80-6,Male,35,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+202.77.129.230-10.42.0.42-80-36706-6,Male,30,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.10.234-10.42.0.151-443-60520-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-44491-17,Male,40,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-31.13.71.1-47432-443-6,Male,65,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-61.135.185.139-58136-80-6,Male,40,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-31.13.71.3-60663-443-6,Female,40,Rural,Evening,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+8.0.6.4-8.6.0.1-0-0-0,Male,35,Rural,Morning,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.3.98-10.42.0.211-443-51317-6,Female,45,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+205.204.101.182-10.42.0.42-443-36814-6,Female,40,Rural,Late Night,English,Central Library,other,Less than an hour,NON VERBAL,0
+198.11.189.2-10.42.0.151-443-41805-6,Female,40,Rural,Late Night,English,Park or Garden,Arts,g 5-6 hours,NON VERBAL,0
+203.205.158.66-10.42.0.211-443-53485-6,Male,55,Rural,Late Night,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.208.168.108-49615-443-6,Female,25,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.10.78-10.42.0.151-443-36652-6,Male,40,Rural,Evening,English,w Home,Arts,Less than an hour,VERBAL,1
+10.42.0.211-106.39.162.36-53896-80-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+239.255.255.250-10.42.0.1-1900-56205-17,Female,60,Rural,Morning,English,Campus Ground,Commerce,Less than an hour,VERBAL,1
+10.42.0.211-66.198.24.224-59002-80-6,Male,50,Rural,Evening,English,w Campus Ground,Science,Less than an hour,VERBAL,1
+206.126.112.142-10.42.0.151-443-51027-6,Male,45,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+180.149.138.197-10.42.0.211-80-48624-6,Female,40,Rural,Late Night,English,Home,Science,5-6 hours,VERBAL,1
+172.217.7.163-10.42.0.151-443-49709-6,Male,45,Rural,Morning,English,Central Library,Science,s 6 and Above,VERBAL,1
+10.42.0.151-104.244.43.195-58057-443-6,Male,40,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-48313-53-17,Male,30,Rural,Afternoon,English,College lab,Science,2-4 hours,VERBAL,1
+10.42.0.211-77.234.44.40-46926-80-6,Male,60,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-52.84.29.55-46491-443-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.9.238-10.42.0.42-443-33455-6,Female,60,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-33832-53-17,Male,35,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-25397-53-17,Female,55,Rural,Late Night,English,w Other places,Science,Less than an hour,VERBAL,1
+10.42.0.42-123.125.115.164-53516-443-6,Male,40,Rural,Morning,English,Home,Science,6 and Above,VERBAL,1
+10.42.0.211-106.11.176.1-47894-443-6,Male,45,Rural,Late Night,English,Home,Science,e 2-4 hours,NON VERBAL,0
+172.217.7.196-10.42.0.151-443-42712-6,Male,40,Rural,Morning,English,Central Library,Science,e 2-4 hours,VERBAL,1
+172.217.10.74-10.42.0.42-443-47380-6,Female,35,Rural,Morning,English,Park or Garden,Science,2-4 hours,NON VERBAL,0
+172.217.10.35-10.42.0.211-443-46472-6,Male,20,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-36.248.26.201-42248-80-6,Male,35,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Male,30,Rural,Morning,English,Home,Science,e 2-4 hours,VERBAL,1
+217.69.133.145-10.42.0.151-443-57440-6,Female,20,Rural,Morning,English,College lab,Science,Less than an hour,NON VERBAL,0
+172.217.3.99-10.42.0.151-443-51157-17,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.3.99-10.42.0.151-443-39445-6,Female,30,Rural,Evening,English,College lab,Science, 2-4 hours,VERBAL,1
+173.222.142.156-10.42.0.211-80-36972-6,Male,40,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+182.22.31.252-10.42.0.211-443-54160-6,Male,25,Rural,Late Night,English,w Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-5589-17,Female,40,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+172.217.10.226-10.42.0.211-443-40200-6,Male,40,Rural,Morning,English,Central Library,Science,To borrow library materials,NON VERBAL,0
+8.41.222.241-10.42.0.211-443-40412-6,Male,45,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+209.10.120.26-10.42.0.211-80-36254-6,Male,25,Rural,Morning,English,w College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-95.213.11.181-57463-80-6,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-14.17.42.57-43291-80-6,Male,50,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-52.84.136.83-53163-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.142-10.42.0.211-443-59473-6,Male,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.225-10.42.0.151-443-58325-6,Male,45,Rural,Morning,English,Home,Commerce,Less than an hour,VERBAL,1
+10.42.0.211-23.23.129.231-45964-443-6,Female,35,Rural,Afternoon,English,Home,Commerce, 2-4 hours,VERBAL,1
+182.22.24.124-10.42.0.211-443-55195-6,Male,50,Rural,Morning,English,Class Room,Arts,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-59045-53-17,Male,55,Rural,Late Night,English,Central Library,Commerce,s 6 and Above,VERBAL,1
+172.217.6.227-10.42.0.151-443-58711-6,Male,40,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-119.146.74.33-57570-443-6,Male,50,Rural,Morning,English,Central Library,Commerce,2-4 hours,VERBAL,1
+10.42.0.211-31.13.71.1-43953-443-6,Male,30,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+172.217.9.227-10.42.0.211-80-53475-6,Female,40,Rural,Late Night,English,Home,Science, 5-6 hours,VERBAL,1
+10.42.0.211-10.42.0.1-3958-53-17,Female,40,Rural,Morning,English,Home,Commerce,Less than an hour,VERBAL,1
+10.42.0.211-77.234.44.79-47870-443-6,Male,40,Rural,Morning,English,Home,Arts,Less than an hour,VERBAL,1
+203.205.158.61-10.42.0.42-80-53995-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-54.243.161.28-60725-443-6,Female,30,Rural,Morning,English,Home,other,2-4 hours,VERBAL,1
+10.42.0.151-31.13.71.37-46802-443-6,Male,55,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-39454-53-17,Female,65,Rural,Evening,English,Central Library,Science,2-4 hours,VERBAL,1
+192.229.173.173-10.42.0.42-80-41637-6,Male,50,Rural,Evening,English,w Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-54310-17,Female,45,Rural,Morning,English,w Other places,Arts,Less than an hour,VERBAL,1
+8.8.8.8-10.42.0.211-53-17618-17,Male,40,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.68-10.42.0.151-443-43434-6,Male,60,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-36.51.254.232-40875-443-6,Female,40,Rural,Evening,English,Class Room,Science,2-4 hours,VERBAL,1
+172.217.8.4-10.42.0.211-443-46057-6,Female,50,Urban,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-119.146.74.49-38694-443-6,Male,50,Rural,Evening,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-51235-53-17,Female,45,Rural,Morning,English,w Class Room,Science,e 2-4 hours,VERBAL,1
+10.42.0.151-31.13.71.52-39123-443-6,Male,70,Rural,Late Night,English,Home,Science,5-6 hours,VERBAL,1
+10.42.0.211-66.231.239.95-46097-443-6,Male,40,Rural,Evening,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-43802-17,Male,50,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-38836-53-17,Male,35,Urban,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-41689-53-17,Male,45,Urban,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-115.239.210.141-33504-443-6,Female,40,Urban,Morning,English,Other places,other,2-4 hours,VERBAL,1
+172.217.10.42-10.42.0.151-443-50352-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-52.84.29.134-44447-443-6,Male,40,Urban,Morning,English,Home,Science,Less than an hour,VERBAL,1
+206.126.112.141-10.42.0.42-443-40754-6,Male,45,Rural,Late Night,English,w Home,other,Less than an hour,VERBAL,1
+173.222.150.38-10.42.0.211-443-46131-6,Male,30,Rural,Evening,English,Other places,Science,2-4 hours,NON VERBAL,0
+183.79.249.252-10.42.0.211-443-37105-6,Male,40,Rural,Afternoon,English,College lab,Science,Less than an hour,VERBAL,1
+184.50.111.246-10.42.0.151-443-53508-6,Male,45,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+202.77.129.146-10.42.0.151-80-49656-6,Male,55,Rural,Late Night,English,College lab,Science,2-4 hours,VERBAL,1
+203.205.158.44-10.42.0.151-80-39840-6,Female,55,Rural,Late Night,English,w Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.10.234-10.42.0.151-443-32815-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-52.70.125.189-40737-443-6,Female,65,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.151-52.84.29.137-39492-443-6,Female,25,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.99-10.42.0.42-443-53814-6,Male,55,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.194-10.42.0.211-443-45391-6,Male,60,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.12.174-10.42.0.151-443-34240-6,Male,65,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+216.58.219.202-10.42.0.42-443-46439-6,Female,30,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.3-10.42.0.151-443-35927-6,Female,30,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.12.206-10.42.0.151-443-41811-6,Female,55,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Male,60,Rural,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+182.22.31.252-10.42.0.211-443-48485-6,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+172.217.3.110-10.42.0.211-443-60421-6,Male,45,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-31065-53-17,Female,45,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.42-443-35767-6,Male,45,Rural,Afternoon,English,College lab,Science,2-4 hours,VERBAL,1
+140.205.32.3-10.42.0.211-443-55083-6,Female,25,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+203.205.147.229-10.42.0.211-80-52309-6,Male,35,Rural,Afternoon,English,w Central Library,Science,s 6 and Above,VERBAL,1
+10.42.0.151-91.190.216.54-54248-12350-6,Female,55,Rural,Afternoon,English,Other places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-104.244.43.35-41821-443-6,Female,30,Rural,Morning,English,w Park or Garden,Science, 6 and Above,NON VERBAL,0
+172.217.12.174-10.42.0.42-443-44753-6,Female,30,Rural,Evening,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-23.77.88.53-43881-443-6,Male,60,Rural,Late Night,English,w Home,Science,2-4 hours,NON VERBAL,0
+172.217.10.42-10.42.0.211-443-45534-6,Male,30,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-56346-17,Male,45,Rural,Evening,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.124-55658-443-6,Male,60,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.42-23.208.168.108-43192-443-6,Female,45,Rural,Late Night,English,College Lab,Science, Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-43279-53-17,Male,55,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-74.6.105.13-46443-443-6,Male,40,Rural,Evening,English,Class Room,Science,Less than an hour,VERBAL,1
+172.217.11.38-10.42.0.211-443-56508-6,Male,40,Rural,Morning,English,Class Room,Science, Less than an hour,VERBAL,1
+203.205.158.62-10.42.0.151-80-37705-6,Female,65,Rural,Late Night,English,College Lab,Science,Less than an hour,VERBAL,1
+172.217.6.206-10.42.0.151-443-45553-6,Male,50,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-47.88.66.107-52538-443-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+192.229.163.180-10.42.0.151-443-46526-6,Male,25,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-66.198.24.240-48285-80-6,Male,40,Rural,Afternoon,English,w Home,Science, 2-4 hours,NON VERBAL,0
+209.10.120.26-10.42.0.211-80-34454-6,Female,50,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+172.217.11.33-10.42.0.42-443-52649-6,Male,35,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+172.217.3.110-10.42.0.211-443-33171-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.10.131-10.42.0.42-443-55775-6,Male,25,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.142-10.42.0.42-80-49005-6,Male,45,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.151-443-43494-6,Male,30,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+222.73.28.96-10.42.0.151-80-55805-6,Female,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-9594-53-17,Female,40,Rural,Afternoon,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-64887-53-17,Female,60,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-69.147.82.60-39054-443-6,Male,50,Rural,Morning,English,w Home,Science, 6 and Above,NON VERBAL,0
+10.42.0.151-76.13.28.196-53343-443-6,Male,40,Rural,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+172.217.10.106-10.42.0.151-443-45984-6,Male,70,Rural,Evening,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+182.254.5.234-10.42.0.151-80-34165-6,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-23829-53-17,Female,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+192.229.173.173-10.42.0.211-80-44480-6,Male,40,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-35001-53-17,Female,35,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.66.169.49-41289-80-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+217.69.136.176-10.42.0.151-443-33474-6,Female,60,Rural,Evening,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-14087-53-17,Male,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+180.76.152.13-10.42.0.151-80-51366-6,Female,45,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-42220-53-17,Male,40,Rural,Afternoon,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.3-10.42.0.151-443-36793-6,Male,45,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+202.77.129.150-10.42.0.42-443-33853-6,Male,35,Urban,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-66.198.24.225-53466-443-6,Female,55,Rural,Afternoon,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.211-77.234.44.41-55258-80-6,Male,55,Rural,Late Night,English,Park or Garden,Science,2-4 hours,VERBAL,1
+172.217.10.66-10.42.0.211-443-52234-6,Male,75,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+157.240.2.25-10.42.0.211-443-57405-6,Female,40,Rural,Evening,English,Park or Garden,Science,2-4 hours,NON VERBAL,0
+216.58.219.202-10.42.0.211-443-39839-6,Male,45,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+183.79.250.123-10.42.0.42-80-37556-6,Male,40,Urban,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-72.21.206.141-36651-443-6,Female,60,Urban,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+157.240.18.15-10.42.0.211-443-58041-6,Female,55,Urban,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+216.58.219.195-10.42.0.42-443-42081-6,Male,50,Rural,Morning,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-12948-53-17,Male,25,Urban,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-107.23.222.87-41864-80-6,Female,30,Rural,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+169.47.5.236-10.42.0.42-5222-52140-6,Male,55,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.42-42.236.125.112-48503-80-6,Male,40,Urban,Afternoon,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.42-62.138.0.117-45174-80-6,Male,35,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.151-103.7.30.118-56209-80-6,Male,50,Rural,Morning,English,Campus Ground,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.8.102.138-60486-443-6,Male,60,Rural,Late Night,English,Class Room,Science, 2-4 hours,VERBAL,1
+162.208.22.39-10.42.0.211-443-49073-6,Male,25,Rural,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+172.217.9.234-10.42.0.42-443-38076-6,Male,55,Urban,Evening,English,To prepare class Assignments,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-34444-53-17,Male,25,Urban,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-6271-53-17,Male,45,Rural,Morning,English,w Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.151-23.208.168.108-54198-443-6,Female,45,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-26887-53-17,Male,50,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-52.6.206.34-45352-443-6,Male,40,Rural,Morning,English,w Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-45636-53-17,Male,55,Rural,Evening,English,w Central Library,Science,Less than an hour,VERBAL,1
+157.240.2.35-10.42.0.42-80-45534-6,Female,25,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+220.181.7.190-10.42.0.42-443-40568-6,Female,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.42-123.125.115.164-39500-443-6,Male,60,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-27938-53-17,Female,40,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+203.90.242.126-10.42.0.211-80-56368-6,Female,40,Rural,Morning,English,Other Places,Science, 2-4 hours,NON VERBAL,0
+172.217.10.42-10.42.0.211-443-54248-6,Male,60,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.3.97-10.42.0.42-443-50689-6,Female,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+202.77.129.150-10.42.0.211-80-35469-6,Female,65,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-3474-17,Male,50,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.3.104-10.42.0.42-443-52092-6,Female,60,Rural,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.151-31.13.80.52-57082-443-6,Female,55,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+174.35.73.77-10.42.0.211-80-50428-6,Male,55,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+172.217.12.174-10.42.0.151-443-34277-6,Female,45,Rural,Morning,English,Home,Science, 5-6 hours,VERBAL,1
+10.42.0.211-77.234.44.199-54351-80-6,Male,80,Rural,Morning,English,Home,Science, 6 and Above,NON VERBAL,0
+10.42.0.211-115.239.210.141-51354-443-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-16702-53-17,Male,40,Rural,Late Night,English,Other Places,Science, 2-4 hours,VERBAL,1
+220.181.7.190-10.42.0.211-443-39236-6,Female,55,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+183.79.253.231-10.42.0.211-443-50052-6,Male,70,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.163-10.42.0.211-443-33652-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.3.106-10.42.0.42-443-50929-6,Male,50,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+183.79.17.108-10.42.0.151-443-60432-6,Male,40,Rural,Late Night,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-23.194.142.7-36995-443-6,Male,60,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.6.196-10.42.0.42-443-52766-6,Male,25,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+180.149.136.194-10.42.0.211-80-37465-6,Male,20,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.21.95.195-45473-443-6,Male,55,Rural,Evening,English,Home,Science,g 5-6 hours,NON VERBAL,0
+219.142.78.162-10.42.0.211-80-57083-6,Male,50,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+157.240.18.35-10.42.0.211-443-45094-6,Male,30,Rural,Morning,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+203.205.158.66-10.42.0.151-80-55438-6,Male,40,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+198.11.188.75-10.42.0.151-443-38415-6,Male,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+216.58.217.99-10.42.0.42-443-60673-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+162.208.22.39-10.42.0.211-443-37016-6,Male,55,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-6031-53-17,Male,25,Rural,Late Night,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-25467-53-17,Male,20,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+180.149.136.194-10.42.0.211-443-49673-6,Male,40,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-63.250.200.63-45857-443-6,Male,45,Rural,Afternoon,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.42-47.89.69.217-54360-443-6,Female,60,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+169.45.248.122-10.42.0.151-5222-56368-6,Female,40,Rural,Morning,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-72.247.70.190-47957-80-6,Male,50,Rural,Evening,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.211-104.97.95.172-34742-80-6,Male,40,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+192.229.163.180-10.42.0.151-443-58360-6,Male,35,Rural,Afternoon,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-59.38.112.48-33938-443-6,Female,50,Rural,Evening,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.12.170-10.42.0.151-443-37256-6,Male,50,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-23.44.160.219-49986-443-6,Male,45,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+172.217.11.10-10.42.0.151-443-48688-6,Male,65,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+180.163.255.159-10.42.0.211-80-47957-6,Female,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.110-45255-443-6,Male,45,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+203.205.191.23-10.42.0.42-80-52340-6,Male,55,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-23.194.141.191-48920-443-6,Female,50,Rural,Evening,English,Other Places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.21.95.195-52107-443-6,Male,50,Rural,Morning,English,Home,other,2-4 hours,VERBAL,1
+10.42.0.211-74.6.105.13-58634-443-6,Male,40,Rural,Morning,English,Home,Arts, 5-6 hours,NON VERBAL,0
+172.217.11.10-10.42.0.211-443-50655-6,Female,65,Rural,Morning,English,Park or Garden,Science, 6 and Above,NON VERBAL,0
+10.42.0.211-104.118.222.110-51153-443-6,Female,45,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.11.3-10.42.0.42-443-54319-6,Male,45,Rural,Late Night,English,Central Library,Arts, 2-4 hours,NON VERBAL,0
+172.217.10.234-10.42.0.151-443-42653-6,Male,40,Rural,Late Night,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-104.192.108.27-42060-80-6,Male,60,Rural,Morning,English,Central Library,Commerce,Less than an hour,NON VERBAL,0
+192.229.173.173-10.42.0.211-80-37045-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+202.77.129.146-10.42.0.211-80-59104-6,Male,65,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.129-10.42.0.211-443-52823-6,Female,45,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+180.149.153.234-10.42.0.211-80-39432-6,Female,60,Rural,Evening,English,Other Places,Science,Less than an hour,VERBAL,1
+10.42.0.211-31.13.80.8-42504-443-6,Female,50,Rural,Late Night,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-52.84.142.16-47647-443-6,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.174-10.42.0.42-443-33226-6,Male,35,Rural,Morning,English,Home,Science,g 5-6 hours,VERBAL,1
+203.205.158.61-10.42.0.42-80-46305-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.238-10.42.0.151-443-59677-6,Male,40,Rural,Afternoon,English,College Lab,Science,Less than an hour,VERBAL,1
+220.181.7.190-10.42.0.42-443-47489-6,Male,65,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.151-104.208.28.54-39698-443-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+203.205.179.170-10.42.0.151-80-48221-6,Female,20,Rural,Late Night,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.10.78-10.42.0.42-443-55471-6,Female,25,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-98.139.199.204-55824-443-6,Male,25,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-57180-53-17,Male,40,Rural,Morning,English,College Lab,Science,5-6 hours,NON VERBAL,0
+202.77.129.150-10.42.0.211-443-39231-6,Male,45,Rural,Late Night,English,Central Library,Science,s 6 and Above,NON VERBAL,0
+10.42.0.211-23.194.141.179-48936-443-6,Female,35,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+169.45.214.251-10.42.0.42-443-52539-6,Female,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.10.132-10.42.0.211-443-36516-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.96-59470-80-6,Male,25,Rural,Morning,English,College Lab,Science,2-4 hours,VERBAL,1
+216.58.219.196-10.42.0.42-443-45549-6,Male,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-41896-53-17,Male,60,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+180.76.145.14-10.42.0.211-80-45075-6,Male,60,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-31292-53-17,Male,40,Rural,Evening,English,Central Library,Science,6 and Above,VERBAL,1
+172.217.6.206-10.42.0.151-443-44913-6,Male,40,Rural,Morning,English,w Park or Garden,Science,e 2-4 hours,NON VERBAL,0
+172.217.12.130-10.42.0.211-443-49161-6,Male,65,Rural,Late Night,English,Class Room,Science,e 2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-25685-53-17,Female,35,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-104.193.88.109-56822-80-6,Female,60,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-33470-53-17,Male,55,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-31.13.71.36-59758-443-6,Male,35,Rural,Morning,English,Home,Science,e 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-11920-53-17,Male,40,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
+222.73.28.96-10.42.0.151-80-55805-6,Female,60,Rural,Morning,English,Home,Commerce, 2-4 hours,VERBAL,1
+182.22.25.252-10.42.0.211-443-38737-6,Male,40,Rural,Morning,English,Central Library,Commerce, 2-4 hours,VERBAL,1
+203.205.191.25-10.42.0.151-80-54167-6,Male,35,Rural,Morning,English,Class Room,Arts,Less than an hour,NON VERBAL,0
+182.254.5.234-10.42.0.211-80-44879-6,Female,40,Rural,Morning,English,College Lab,Commerce, 2-4 hours,VERBAL,1
+10.42.0.211-104.79.152.104-44335-443-6,Male,50,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-66.231.239.96-34357-443-6,Male,45,Rural,Late Night,English,w Home,Commerce,To borrow library materials,NON VERBAL,0
+203.205.158.60-10.42.0.42-80-58920-6,Male,25,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-55696-53-17,Male,35,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-22043-53-17,Male,65,Rural,Morning,English,Park or Garden,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.42-108.174.11.1-52108-80-6,Male,40,Rural,Morning,English,w College Lab,Arts,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-4023-53-17,Female,30,Rural,Morning,English,w College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-123.125.29.220-56056-80-6,Male,40,Rural,Morning,English,Central Library,other,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-54296-53-17,Male,40,Rural,Morning,English,w College Lab,Science,Less than an hour,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Male,40,Rural,Late Night,English,Other Places,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-61659-53-17,Male,30,Rural,Morning,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-31.13.71.37-33718-443-6,Male,25,Rural,Evening,English,w Park or Garden,Arts,s 6 and Above,NON VERBAL,0
+172.217.6.226-10.42.0.151-443-44325-6,Female,75,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-23.199.25.36-50542-80-6,Female,65,Rural,Morning,English,w Class Room,Science,2-4 hours,VERBAL,1
+10.42.0.211-123.125.29.220-60523-80-6,Male,45,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-69.147.82.61-34477-443-6,Female,50,Rural,Morning,English,Central Library,Science, 5-6 hours,NON VERBAL,0
+192.229.173.173-10.42.0.151-443-35041-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-48093-17,Male,45,Rural,Morning,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.10.238-10.42.0.151-443-55667-6,Male,35,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-123.125.29.220-57796-80-6,Male,60,Rural,Afternoon,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.42-119.146.74.49-60415-443-6,Male,45,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.208.168.108-40203-443-6,Male,30,Rural,Afternoon,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-10094-53-17,Male,40,Urban,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-64343-53-17,Female,45,Rural,Late Night,English,w Home,other,Less than an hour,NON VERBAL,0
+10.42.0.42-119.146.74.34-51153-80-6,Female,50,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.11.35-10.42.0.211-443-33112-6,Male,55,Rural,Late Night,English,Campus Ground,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-115.239.210.141-52031-80-6,Male,45,Rural,Morning,English,w Campus Ground,other,2-4 hours,NON VERBAL,0
+239.255.255.250-10.42.0.151-1900-60044-17,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+152.163.56.2-10.42.0.211-443-48352-6,Female,55,Urban,Afternoon,English,Home,Science,Less than an hour,NON VERBAL,0
+182.22.67.70-10.42.0.211-443-44720-6,Female,20,Urban,Morning,English,Central Library,Science,e 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-46429-53-17,Female,50,Urban,Morning,English,Home,Science,5-6 hours,VERBAL,1
+203.205.158.34-10.42.0.211-80-42988-6,Male,40,Rural,Evening,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-37408-53-17,Male,40,Urban,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-87.240.165.80-48501-80-6,Male,25,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+172.217.10.131-10.42.0.151-443-46990-17,Female,50,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.110-57908-443-6,Female,45,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-47.89.67.240-49207-443-6,Male,40,Rural,Morning,English,w Other places,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-103.235.46.212-52714-443-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.109-10.42.0.42-443-53363-17,Male,30,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.11.46-10.42.0.151-443-39820-6,Female,45,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+172.217.12.142-10.42.0.42-443-33868-6,Female,55,Rural,Morning,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.211-443-52499-6,Female,55,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-16817-53-17,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.12.174-10.42.0.42-443-56202-6,Male,80,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+180.149.136.194-10.42.0.42-443-51506-6,Male,55,Rural,Morning,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.42-52.84.143.34-50235-80-6,Male,45,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.78-10.42.0.151-443-52740-6,Female,50,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-37285-53-17,Female,35,Rural,Late Night,English,College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-106.39.169.66-52036-80-6,Female,40,Rural,Morning,English,w Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-66.231.239.120-48296-443-6,Male,50,Rural,Evening,English,College lab,Science,2-4 hours,NON VERBAL,0
+192.229.173.173-10.42.0.42-80-51412-6,Male,45,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.193.88.109-53754-80-6,Male,60,Rural,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-40300-53-17,Male,60,Rural,Evening,English,w College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-24557-17,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-54404-53-17,Male,45,Rural,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-38327-53-17,Male,60,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+202.77.129.185-10.42.0.211-80-42624-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.208.26.242-50710-443-6,Male,55,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+203.205.158.62-10.42.0.211-80-60548-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-77.234.41.79-33319-443-6,Female,45,Rural,Morning,English,Class Room,Science,s 6 and Above,VERBAL,1
+172.217.12.161-10.42.0.151-443-54018-6,Male,45,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.10.99-10.42.0.42-443-50426-17,Male,45,Rural,Morning,English,Central Library,Science, 6 and Above,NON VERBAL,0
+172.217.10.8-10.42.0.151-443-46677-6,Male,40,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-6243-53-17,Female,40,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+140.205.230.8-10.42.0.211-80-57763-6,Male,55,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.12.202-10.42.0.211-443-33167-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+192.229.173.173-10.42.0.42-80-55478-6,Female,50,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+162.208.22.39-10.42.0.211-443-58908-6,Male,50,Rural,Morning,English,Central Library,Science, Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-60173-53-17,Male,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-41930-53-17,Female,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-87.240.165.80-41928-80-6,Female,35,Rural,Morning,English,Central Library,Science, Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-8905-53-17,Female,55,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.120-41721-443-6,Female,40,Rural,Morning,English,w Other places,Science,Less than an hour,NON VERBAL,0
+174.35.73.110-10.42.0.211-80-47715-6,Male,40,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-44249-53-17,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-53887-17,Female,50,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+172.217.9.238-10.42.0.151-443-49502-6,Male,55,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-22786-53-17,Male,40,Rural,Late Night,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-104.192.110.245-53511-443-6,Male,30,Rural,Late Night,English,w Class Room,Science,2-4 hours,VERBAL,1
+172.217.12.131-10.42.0.151-443-52803-6,Male,55,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-10641-53-17,Male,55,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+163.177.93.222-10.42.0.151-80-59939-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.3.110-10.42.0.211-443-59382-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.110-10.42.0.151-443-55275-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+182.22.67.91-10.42.0.151-443-49755-6,Male,55,Rural,Evening,English,Other places,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-41689-53-17,Female,25,Rural,Morning,English,Home,Science, 6 and Above,VERBAL,1
+8.41.222.241-10.42.0.211-443-42065-6,Female,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+192.229.173.173-10.42.0.151-80-44704-6,Male,60,Rural,Evening,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-34014-53-17,Female,60,Rural,Late Night,English,Other places,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-59327-53-17,Female,40,Rural,Late Night,English,College lab,Science,Less than an hour,NON VERBAL,0
+172.217.6.227-10.42.0.211-443-55393-6,Male,25,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-43691-53-17,Male,25,Rural,Late Night,English,College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.21.51.186-50298-443-6,Male,40,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.10.234-10.42.0.42-443-58499-6,Male,50,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+174.35.73.165-10.42.0.42-80-52265-6,Male,35,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-46534-53-17,Female,65,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.9.227-10.42.0.211-443-50059-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-106.39.162.36-53608-80-6,Female,55,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+203.205.158.66-10.42.0.151-80-55438-6,Female,40,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+172.217.9.227-10.42.0.42-80-60060-6,Female,50,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-4871-53-17,Male,55,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-69.147.64.34-33128-443-6,Male,60,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-23.21.72.212-46930-443-6,Male,30,Rural,Evening,English,w Central Library,Science,2-4 hours,NON VERBAL,0
+173.241.242.143-10.42.0.211-443-50911-6,Male,35,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-16353-53-17,Male,35,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-74.217.63.52-53398-443-6,Female,65,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+211.144.37.229-10.42.0.211-80-59949-6,Male,65,Rural,Late Night,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-121.12.98.64-58425-80-6,Female,30,Rural,Late Night,English,College lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-77.234.42.92-57781-443-6,Male,55,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-58459-53-17,Male,40,Rural,Evening,English,Other places,Science,Less than an hour,VERBAL,1
+172.217.11.14-10.42.0.151-443-37232-6,Female,25,Rural,Late Night,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.10.10-10.42.0.211-443-55641-6,Male,30,Urban,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.42-103.235.46.211-39424-443-6,Male,45,Rural,Evening,English,w Home,Science, 2-4 hours,NON VERBAL,0
+8.0.6.4-8.6.0.1-0-0-0,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.138-10.42.0.151-443-33568-6,Male,45,Rural,Late Night,English,w Home,Science, 2-4 hours,VERBAL,1
+151.101.1.134-10.42.0.151-443-35329-6,Male,55,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+172.217.8.3-10.42.0.42-443-46316-6,Male,55,Rural,Evening,English,College Lab,Science,2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-23164-17,Female,75,Urban,Afternoon,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.11.14-10.42.0.211-443-37667-6,Female,55,Urban,Late Night,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+172.217.10.1-10.42.0.211-443-34132-6,Male,45,Urban,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.151-31.13.71.37-40974-443-6,Female,50,Rural,Late Night,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-38492-53-17,Male,75,Urban,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-11104-53-17,Male,35,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+173.194.66.188-10.42.0.42-5228-38135-6,Female,30,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-104.193.88.109-54723-80-6,Female,35,Urban,Late Night,English,w Home,Science, 2-4 hours,VERBAL,1
+209.10.120.26-10.42.0.211-80-44657-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+180.149.153.234-10.42.0.211-80-39998-6,Male,60,Rural,Morning,English,w Home,Science,2-4 hours,NON VERBAL,0
+180.149.136.194-10.42.0.211-443-40291-6,Male,70,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-76.13.28.196-39700-443-6,Male,30,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-52.84.142.16-47986-443-6,Male,40,Urban,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-66.198.24.225-58096-443-6,Female,50,Urban,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+180.163.255.159-10.42.0.211-80-52116-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.6.238-10.42.0.42-443-35433-6,Male,20,Rural,Evening,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-123.125.29.220-55281-80-6,Male,45,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-103.235.46.39-51713-80-6,Male,40,Rural,Late Night,English,w Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.42-23.206.125.17-39542-80-6,Male,50,Rural,Late Night,English,College Lab,Science, 5-6 hours,NON VERBAL,0
+10.42.0.151-52.84.64.213-49594-443-6,Male,75,Rural,Morning,English,Park or Garden,Science, 6 and Above,NON VERBAL,0
+10.42.0.151-31.13.80.5-48569-443-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+216.58.217.100-10.42.0.151-443-59609-6,Female,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-11637-53-17,Female,25,Rural,Late Night,English,w Central Library,Science,Less than an hour,VERBAL,1
+172.217.11.10-10.42.0.151-443-34857-6,Male,70,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+208.80.154.224-10.42.0.211-80-50785-6,Male,70,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+151.101.45.140-10.42.0.211-443-34476-6,Female,30,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.9.238-10.42.0.151-443-41409-6,Male,45,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+216.58.219.202-10.42.0.211-443-40904-6,Female,55,Rural,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-17438-53-17,Male,25,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-103.235.46.211-37397-80-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+175.100.207.233-10.42.0.211-443-37804-6,Male,60,Rural,Evening,English,Class Room,Science,g 5-6 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-18761-53-17,Female,35,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-98.139.183.24-55771-80-6,Male,25,Rural,Late Night,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+174.129.32.118-10.42.0.211-443-36751-6,Female,40,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+183.79.249.252-10.42.0.42-443-39810-6,Male,40,Rural,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.42-104.254.66.16-38129-80-6,Male,60,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-66.198.24.250-49701-80-6,Male,30,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-19286-17,Female,60,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.10.42-10.42.0.211-443-48125-6,Male,40,Rural,Evening,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-42.56.79.30-49954-80-6,Female,35,Rural,Evening,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+172.217.10.234-10.42.0.151-443-58873-6,Female,35,Rural,Evening,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-69.147.82.61-46971-443-6,Female,40,Rural,Morning,English,w Central Library,Science,2-4 hours,VERBAL,1
+172.217.10.46-10.42.0.151-443-41156-6,Male,60,Rural,Morning,English,Class Room,other,Less than an hour,VERBAL,1
+202.77.129.150-10.42.0.211-443-35599-6,Male,40,Rural,Afternoon,English,Park or Garden,Arts, 2-4 hours,NON VERBAL,0
+10.42.0.211-123.125.29.138-41978-80-6,Female,50,Rural,Evening,English,Central Library,Science, 2-4 hours,VERBAL,1
+172.217.10.129-10.42.0.211-443-39645-6,Male,20,Rural,Late Night,English,Campus Ground,Science,Less than an hour,NON VERBAL,0
+172.217.9.238-10.42.0.211-443-49125-6,Male,40,Rural,Evening,English,Class Room,Arts,2-4 hours,NON VERBAL,0
+172.217.10.142-10.42.0.151-443-57576-6,Male,60,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-52.84.139.108-46611-80-6,Male,45,Rural,Late Night,English,To prepare class Assignments,Commerce, 2-4 hours,VERBAL,1
+198.11.189.16-10.42.0.211-443-42583-6,Male,20,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-5173-53-17,Female,35,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.10.3-10.42.0.151-443-55011-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-36.110.210.167-48473-80-6,Female,35,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-12123-53-17,Male,50,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.124-41056-80-6,Male,40,Rural,Evening,English,w Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-3243-53-17,Female,45,Rural,Morning,English,Central Library,Science, 5-6 hours,NON VERBAL,0
+172.217.10.106-10.42.0.211-443-53471-6,Male,40,Rural,Late Night,English,Home,Science, 6 and Above,VERBAL,1
+10.42.0.211-10.42.0.1-29628-53-17,Male,60,Rural,Evening,English,w Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-104.192.110.245-53749-443-6,Male,40,Rural,Afternoon,English,Home,Science, 2-4 hours,VERBAL,1
+140.205.164.47-10.42.0.42-443-43123-6,Male,65,Rural,Afternoon,English,Other Places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-65199-53-17,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.77-10.42.0.151-443-47158-6,Female,55,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+174.35.73.174-10.42.0.211-80-35250-6,Female,25,Rural,Late Night,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-31.13.71.37-40262-443-6,Male,55,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.10.74-10.42.0.151-443-56050-6,Male,20,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+182.22.24.124-10.42.0.211-443-33030-6,Female,40,Rural,Evening,English,w Home,Science, 2-4 hours,NON VERBAL,0
+203.205.191.22-10.42.0.151-80-41134-6,Male,55,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+174.129.32.118-10.42.0.211-443-58108-6,Female,40,Rural,Morning,English,Home,Science,g 5-6 hours,VERBAL,1
+172.217.10.74-10.42.0.151-443-35416-6,Male,60,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-20567-17,Male,45,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-108.168.180.104-36381-5222-6,Male,30,Rural,Afternoon,English,Other Places,Science,Less than an hour,VERBAL,1
+192.229.173.173-10.42.0.42-80-51965-6,Male,40,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+172.217.10.74-10.42.0.151-443-57211-6,Male,50,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-59274-53-17,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-31.13.69.203-33969-443-6,Male,40,Rural,Evening,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.6.234-10.42.0.151-443-55980-6,Male,50,Rural,Afternoon,English,College Lab,Science,5-6 hours,NON VERBAL,0
+172.217.10.8-10.42.0.151-443-58329-6,Female,40,Rural,Morning,English,Park or Garden,Science,s 6 and Above,NON VERBAL,0
+219.142.78.162-10.42.0.211-80-54686-6,Male,40,Rural,Afternoon,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-23.23.199.129-33664-443-6,Male,40,Rural,Afternoon,English,Park or Garden,Science,2-4 hours,VERBAL,1
+10.42.0.42-66.198.24.224-51856-443-6,Male,20,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-91.190.216.53-54674-12350-6,Male,50,Rural,Evening,English,Central Library,Commerce,2-4 hours,NON VERBAL,0
+10.42.0.151-121.12.98.64-59109-80-6,Female,25,Rural,Late Night,English,College Lab,Commerce,Less than an hour,NON VERBAL,0
+157.240.18.19-10.42.0.42-443-43261-6,Male,30,Rural,Evening,English,Central Library,Arts,Less than an hour,VERBAL,1
+157.240.2.20-10.42.0.151-443-39010-6,Male,50,Rural,Evening,English,Home,Commerce,Less than an hour,VERBAL,1
+172.217.6.195-10.42.0.151-443-35178-6,Female,40,Rural,Morning,English,Home,Science,6 and Above,NON VERBAL,0
+10.42.0.151-121.12.98.64-33802-80-6,Female,30,Rural,Late Night,English,Home,Commerce,e 2-4 hours,VERBAL,1
+183.79.250.123-10.42.0.211-443-60634-6,Male,40,Rural,Late Night,English,College Lab,Science,e 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-13482-53-17,Male,40,Rural,Evening,English,Home,Science,2-4 hours,NON VERBAL,0
+174.35.73.71-10.42.0.42-80-39413-6,Male,35,Rural,Morning,English,Class Room,Commerce,Less than an hour,NON VERBAL,0
+182.22.24.124-10.42.0.211-443-45685-6,Female,30,Rural,Late Night,English,Central Library,Arts,2-4 hours,NON VERBAL,0
+10.42.0.211-115.239.210.141-56029-443-6,Male,40,Rural,Afternoon,English,Central Library,Science,e 2-4 hours,VERBAL,1
+208.80.154.224-10.42.0.151-443-56520-6,Male,40,Rural,Morning,English,w Park or Garden,other,Less than an hour,NON VERBAL,0
+172.217.6.238-10.42.0.151-443-37351-6,Male,60,Rural,Evening,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+172.217.6.193-10.42.0.151-443-37587-6,Male,60,Rural,Afternoon,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-106.39.162.36-47022-80-6,Female,60,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-48987-53-17,Female,30,Rural,Morning,English,Home,Arts, 2-4 hours,VERBAL,1
+203.205.179.170-10.42.0.211-80-56280-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-104.97.95.172-45768-80-6,Male,40,Rural,Late Night,English,Class Room,Science,To borrow library materials,NON VERBAL,0
+220.243.205.152-10.42.0.42-80-57633-6,Female,45,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+216.58.219.227-10.42.0.42-443-59572-6,Female,55,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-104.193.88.109-56820-80-6,Male,55,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-2704-17,Male,55,Rural,Afternoon,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-31.13.71.1-34168-443-6,Male,35,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+203.205.147.229-10.42.0.211-80-56215-6,Female,60,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.11.10-10.42.0.151-443-35897-6,Male,55,Rural,Morning,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+169.45.248.101-10.42.0.151-5222-45490-6,Male,25,Rural,Evening,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-18521-53-17,Female,70,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Male,40,Rural,Evening,English,w Home,other,s 6 and Above,VERBAL,1
+10.42.0.211-111.1.17.152-55060-8077-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-104.97.95.172-59566-80-6,Male,40,Rural,Morning,English,Campus Ground,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-50.18.185.97-52767-443-6,Male,60,Rural,Evening,English,w Campus Ground,other,2-4 hours,NON VERBAL,0
+10.42.0.211-104.88.106.16-54096-80-6,Male,40,Rural,Evening,English,Home,Science, 5-6 hours,VERBAL,1
+10.42.0.151-74.125.22.139-48577-443-6,Female,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+198.105.244.11-10.42.0.151-80-48875-6,Male,55,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-64850-53-17,Male,65,Rural,Afternoon,English,w Home,Science,Less than an hour,VERBAL,1
+222.73.28.96-10.42.0.211-80-45278-6,Male,50,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+201.92.16.176-10.42.0.151-33827-43477-17,Male,55,Rural,Morning,English,Other Places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.21.95.195-56350-443-6,Male,40,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-43702-53-17,Male,40,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.42-104.192.110.245-35948-80-6,Male,40,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-54.192.38.65-58614-443-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-47.88.68.21-44484-443-6,Male,45,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+184.72.52.0-10.42.0.211-443-46621-6,Female,30,Rural,Morning,English,w Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-3975-53-17,Male,35,Rural,Afternoon,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-77.234.41.79-45071-443-6,Male,30,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+209.85.232.188-10.42.0.151-5228-58243-6,Male,20,Rural,Morning,English,Home,Science,e 2-4 hours,NON VERBAL,0
+10.42.0.211-114.134.80.163-40774-80-6,Male,45,Rural,Morning,English,Home,Science,5-6 hours,NON VERBAL,0
+140.205.230.8-10.42.0.42-80-44645-6,Female,25,Rural,Morning,English,Other Places,Science,Less than an hour,NON VERBAL,0
+172.217.10.65-10.42.0.211-443-46046-6,Male,35,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+180.149.138.210-10.42.0.151-80-46160-6,Male,40,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+172.217.12.168-10.42.0.211-443-53542-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-35239-17,Male,30,Urban,Morning,English,Home,Science,2-4 hours,VERBAL,1
+209.10.120.26-10.42.0.211-80-43355-6,Male,55,Rural,Late Night,English,College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-119.146.74.34-52569-80-6,Female,35,Rural,Late Night,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-104.192.110.245-53232-443-6,Male,45,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.6.227-10.42.0.211-443-45594-6,Male,35,Rural,Late Night,English,Park or Garden,Science,2-4 hours,VERBAL,1
+10.42.0.211-104.88.106.21-36787-80-6,Female,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-65029-53-17,Female,40,Urban,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+180.149.153.234-10.42.0.211-80-38431-6,Male,30,Urban,Evening,English,College Lab,Science,2-4 hours,NON VERBAL,0
+10.42.0.42-23.194.140.226-54739-80-6,Male,30,Urban,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-25591-53-17,Male,55,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+180.163.255.159-10.42.0.211-80-52591-6,Male,30,Urban,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+222.73.28.96-10.42.0.151-80-55680-6,Male,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+219.142.78.162-10.42.0.151-443-46188-6,Male,60,Rural,Morning,English,College Lab,Science,Less than an hour,NON VERBAL,0
+220.243.219.55-10.42.0.211-80-54773-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-59760-53-17,Male,40,Rural,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+216.58.217.163-10.42.0.211-443-32806-6,Male,60,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+202.77.129.150-10.42.0.151-80-39358-6,Female,50,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.12.129-10.42.0.211-443-45900-6,Female,45,Rural,Late Night,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-52735-53-17,Male,30,Rural,Late Night,English,Class Room,Science,Less than an hour,NON VERBAL,0
+172.217.10.2-10.42.0.211-443-47218-6,Female,45,Rural,Late Night,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-10322-53-17,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.7.227-10.42.0.42-443-57012-6,Male,60,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-27.221.28.204-39672-80-6,Male,50,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-106.11.92.1-48378-443-6,Male,25,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.151-36.110.213.49-37843-80-6,Male,50,Rural,Morning,English,Home,Science,s 6 and Above,NON VERBAL,0
+222.73.28.96-10.42.0.211-80-40286-6,Female,40,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+203.205.158.63-10.42.0.151-80-56747-6,Male,40,Rural,Morning,English,Class Room,Science, 6 and Above,VERBAL,1
+10.42.0.211-106.11.14.99-50673-443-6,Male,75,Rural,Evening,English,College Lab,Science,2-4 hours,VERBAL,1
+209.15.224.11-10.42.0.211-443-39078-6,Male,55,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.10.10-10.42.0.42-443-58004-6,Male,70,Rural,Morning,English,w Home,Science, 2-4 hours,VERBAL,1
+182.254.5.234-10.42.0.42-80-45290-6,Female,55,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-54.192.38.236-54579-443-6,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+216.58.219.196-10.42.0.211-443-60644-6,Male,45,Rural,Morning,English,Park or Garden,Science, Less than an hour,NON VERBAL,0
+10.42.0.211-74.6.105.9-45678-443-6,Male,40,Rural,Morning,English,w College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-52.88.110.117-47506-443-6,Male,40,Rural,Evening,English,w College Lab,Science,Less than an hour,VERBAL,1
+172.217.10.46-10.42.0.151-443-49578-6,Male,50,Rural,Afternoon,English,Central Library,Science, Less than an hour,NON VERBAL,0
+10.42.0.211-98.139.180.180-51618-443-6,Male,40,Rural,Morning,English,w College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-5310-53-17,Female,60,Rural,Afternoon,English,Other Places,Science,Less than an hour,NON VERBAL,0
+198.105.244.11-10.42.0.151-80-48969-6,Female,25,Rural,Late Night,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-5351-40157-17,Female,55,Rural,Late Night,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-42978-53-17,Female,55,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+180.149.134.221-10.42.0.211-80-42281-6,Female,40,Rural,Late Night,English,w Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.151-40.69.150.36-55177-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-111.202.114.77-56144-443-6,Male,60,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-63.250.200.101-47403-443-6,Female,35,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+150.138.170.22-10.42.0.211-443-59653-6,Male,40,Rural,Morning,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.151-52.84.1.143-49721-443-6,Male,55,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.11.14-10.42.0.151-443-33549-6,Male,40,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.10.67-10.42.0.42-443-46346-6,Male,40,Rural,Late Night,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+184.169.166.225-10.42.0.211-443-58401-6,Male,40,Rural,Afternoon,English,Class Room,Science,2-4 hours,NON VERBAL,0
+172.217.9.227-10.42.0.151-443-56530-6,Male,45,Rural,Evening,English,Central Library,Science, 6 and Above,NON VERBAL,0
+10.42.0.211-10.42.0.1-26036-53-17,Male,55,Rural,Evening,English,w Home,Science,Less than an hour,NON VERBAL,0
+172.217.6.225-10.42.0.211-443-54835-6,Male,65,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-4267-53-17,Male,30,Rural,Morning,English,Campus Ground,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-48859-53-17,Male,40,Rural,Morning,English,w Campus Ground,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-20673-53-17,Female,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.42-10.42.0.211-443-52822-6,Female,25,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-31.13.80.52-57396-443-6,Male,50,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-47871-17,Male,60,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.12.163-10.42.0.211-80-56357-6,Female,55,Rural,Morning,English,College lab,Science,Less than an hour,NON VERBAL,0
+172.217.12.193-10.42.0.151-443-44620-17,Male,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+175.100.207.206-10.42.0.211-80-35487-6,Male,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-17648-53-17,Female,25,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+203.205.158.63-10.42.0.211-80-58573-6,Male,60,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.11.46-10.42.0.151-443-35604-6,Female,45,Rural,Morning,English,w Other places,Science, 2-4 hours,VERBAL,1
+220.243.235.201-10.42.0.42-80-52599-6,Female,40,Rural,Evening,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.10.227-10.42.0.42-80-44282-6,Male,55,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-104.192.110.245-57641-443-6,Male,35,Rural,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-50516-53-17,Male,40,Rural,Evening,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+172.217.11.33-10.42.0.151-443-33645-6,Female,45,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+184.50.111.246-10.42.0.151-443-53505-6,Female,45,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-52.84.29.154-34146-443-6,Male,50,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-104.88.106.21-36787-80-6,Male,40,Rural,Evening,English,College lab,Science, 2-4 hours,VERBAL,1
+172.217.9.238-10.42.0.151-443-52854-6,Male,30,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-39808-53-17,Male,60,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+172.217.11.34-10.42.0.211-443-43916-6,Male,60,Rural,Morning,English,College lab,Science,Less than an hour,NON VERBAL,0
+216.58.219.234-10.42.0.42-443-47241-6,Male,35,Rural,Late Night,English,w Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-31.13.71.7-49079-443-6,Female,40,Rural,Morning,English,College lab,Science, 2-4 hours,NON VERBAL,0
+151.101.1.140-10.42.0.42-80-36385-6,Male,75,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.3.106-10.42.0.151-443-53083-6,Male,60,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.42-66.198.178.91-57417-443-6,Male,40,Rural,Late Night,English,w College lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-104.254.66.16-44444-80-6,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-14.204.144.143-39503-80-6,Male,25,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+172.217.12.170-10.42.0.151-443-44491-6,Female,55,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.78-10.42.0.151-443-57693-6,Male,60,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+184.29.173.155-10.42.0.211-80-59505-6,Male,50,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.74-10.42.0.211-443-33776-6,Male,50,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.10.10-10.42.0.151-443-52357-6,Male,45,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
+180.149.138.210-10.42.0.42-80-58498-6,Male,45,Rural,Evening,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-52.84.143.74-51243-80-6,Male,45,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.12.195-10.42.0.151-443-50038-6,Female,60,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.124-43104-443-6,Male,45,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-63000-53-17,Male,50,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-23.45.196.130-59824-443-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+203.205.158.56-10.42.0.211-80-59413-6,Female,50,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-5128-53-17,Female,25,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.110-60198-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+169.47.42.215-10.42.0.211-443-41852-6,Male,45,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.11.46-10.42.0.151-443-39498-6,Female,45,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+151.101.1.140-10.42.0.211-443-44559-6,Male,55,Rural,Morning,English,w Home,Science,2-4 hours,VERBAL,1
+172.217.10.238-10.42.0.211-443-37167-6,Male,30,Rural,Late Night,English,w Other places,Science, 5-6 hours,NON VERBAL,0
+10.42.0.151-50.17.232.169-37598-443-6,Male,35,Rural,Late Night,English,w Home,Science, 6 and Above,VERBAL,1
+172.217.12.174-10.42.0.151-443-51724-6,Female,40,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-121.12.98.64-40872-80-6,Male,45,Urban,Late Night,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-23.208.106.113-49708-443-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.3.97-10.42.0.42-443-40598-6,Male,40,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+180.149.134.221-10.42.0.151-80-45154-6,Male,60,Rural,Morning,English,w Class Room,Science,Less than an hour,VERBAL,1
+202.77.129.161-10.42.0.151-80-34125-6,Female,50,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-54397-53-17,Male,55,Rural,Morning,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-14.204.144.144-33144-80-6,Male,45,Urban,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.12.193-10.42.0.42-443-50794-6,Male,35,Urban,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-9779-53-17,Female,45,Urban,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.238-10.42.0.211-443-51662-6,Female,40,Rural,Morning,English,Other places,Science,g 5-6 hours,NON VERBAL,0
+10.42.0.211-123.125.115.190-56889-80-6,Female,35,Urban,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-23546-53-17,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.10.78-10.42.0.151-443-49821-6,Male,55,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-52.216.1.211-46011-443-6,Male,55,Rural,Morning,English,Other places,Science,Less than an hour,VERBAL,1
+208.185.50.65-10.42.0.211-443-40195-6,Male,45,Rural,Morning,English,College lab,Science,2-4 hours,VERBAL,1
+10.42.0.151-31.13.80.12-55406-443-6,Female,40,Rural,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+172.217.12.174-10.42.0.151-443-50174-6,Male,40,Rural,Afternoon,English,College lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-104.196.69.241-35023-443-6,Male,40,Rural,Morning,English,w Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-32619-53-17,Male,40,Rural,Afternoon,English,Home,other,Less than an hour,VERBAL,1
+10.42.0.211-103.7.30.118-45636-80-6,Male,60,Rural,Late Night,English,Central Library,Arts,Less than an hour,NON VERBAL,0
+10.42.0.211-106.11.92.16-35045-443-6,Male,65,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+209.10.120.26-10.42.0.211-80-39958-6,Male,50,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+239.255.255.250-10.42.0.1-1900-33661-17,Male,60,Rural,Late Night,English,Home,Arts,Less than an hour,NON VERBAL,0
+172.217.11.2-10.42.0.42-443-52707-6,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+182.22.67.91-10.42.0.211-443-60535-6,Female,40,Rural,Morning,English,Home,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.211-69.147.64.215-40757-443-6,Male,70,Rural,Afternoon,English,Home,Science,s 6 and Above,VERBAL,1
+172.217.12.142-10.42.0.151-443-40348-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-15089-53-17,Male,45,Rural,Morning,English,w Central Library,Science, 6 and Above,VERBAL,1
+172.217.10.74-10.42.0.211-443-33589-6,Female,40,Rural,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.42-104.254.66.16-49957-80-6,Male,40,Rural,Late Night,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-34893-53-17,Male,35,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-123.125.29.220-47214-80-6,Female,25,Rural,Evening,English,College lab,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.211-443-56968-6,Female,80,Rural,Evening,English,College lab,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-54.165.129.5-49352-443-6,Male,45,Rural,Morning,English,w Central Library,Science, Less than an hour,NON VERBAL,0
+10.42.0.151-123.125.115.190-41823-80-6,Female,60,Rural,Morning,English,Other places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-64468-53-17,Male,50,Rural,Morning,English,w Park or Garden,Science,Less than an hour,NON VERBAL,0
+184.72.52.0-10.42.0.211-443-54452-6,Female,55,Rural,Morning,English,Central Library,Science, Less than an hour,VERBAL,1
+10.42.0.151-23.44.160.219-49984-443-6,Female,25,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-66.231.239.110-39311-443-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-77.234.44.196-39596-443-6,Male,65,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-123.125.46.161-49630-80-6,Female,60,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+202.77.129.150-10.42.0.151-443-40088-6,Male,40,Rural,Morning,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+182.22.67.75-10.42.0.151-443-35634-6,Male,30,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+217.69.133.211-10.42.0.211-443-36807-6,Male,60,Rural,Late Night,English,Class Room,Science,Less than an hour,NON VERBAL,0
+172.217.9.238-10.42.0.151-443-40053-6,Male,45,Rural,Late Night,English,Class Room,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-47526-53-17,Male,60,Rural,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-36937-17,Male,30,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-35991-53-17,Female,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-35853-53-17,Female,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.11.42-10.42.0.42-443-44536-6,Female,45,Rural,Evening,English,w Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-77.234.44.43-46919-80-6,Female,55,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+203.205.158.63-10.42.0.151-80-36749-6,Male,40,Rural,Late Night,English,w Home,Science, 6 and Above,NON VERBAL,0
+192.229.163.180-10.42.0.151-443-46522-6,Male,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.67-10.42.0.211-80-48123-6,Female,20,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+203.130.53.126-10.42.0.42-80-50977-6,Male,35,Rural,Afternoon,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-53608-53-17,Male,60,Rural,Late Night,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+208.80.153.224-10.42.0.151-443-37992-6,Male,45,Rural,Morning,English,Home,Commerce,Less than an hour,NON VERBAL,0
+172.217.10.42-10.42.0.151-443-50396-6,Female,45,Rural,Late Night,English,Park or Garden,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-38853-53-17,Male,50,Rural,Morning,English,Central Library,Arts,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-5021-53-17,Male,45,Rural,Late Night,English,w Home,Commerce, 2-4 hours,VERBAL,1
+172.217.10.138-10.42.0.151-443-35329-6,Female,50,Rural,Morning,English,College Lab,Science,Less than an hour,NON VERBAL,0
+172.217.10.35-10.42.0.211-443-54428-6,Male,45,Rural,Late Night,English,Park or Garden,Commerce,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-44339-53-17,Female,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.6.202-10.42.0.151-443-51615-6,Male,35,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.104-10.42.0.211-443-53162-6,Male,60,Rural,Morning,English,w Central Library,Commerce,2-4 hours,NON VERBAL,0
+8.0.6.4-8.6.0.1-0-0-0,Female,40,Rural,Morning,English,w Home,Arts, 2-4 hours,VERBAL,1
+182.22.25.252-10.42.0.211-443-38360-6,Female,35,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-104.244.42.2-45397-443-6,Male,55,Rural,Morning,English,Park or Garden,other,2-4 hours,NON VERBAL,0
+10.42.0.151-125.39.240.46-42682-80-6,Female,35,Rural,Morning,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-45821-53-17,Male,60,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.12.142-10.42.0.211-443-60028-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+209.10.120.26-10.42.0.211-80-44733-6,Female,55,Rural,Morning,English,Home,Arts,Less than an hour,NON VERBAL,0
+10.42.0.211-23.66.169.49-56314-80-6,Male,65,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-31.13.71.52-47620-443-6,Male,40,Rural,Late Night,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+151.101.117.140-10.42.0.211-443-36821-6,Male,35,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+205.204.101.196-10.42.0.151-443-50664-6,Male,40,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+205.185.216.42-10.42.0.211-80-56393-6,Male,40,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.7.161-10.42.0.211-443-40512-6,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+192.229.173.173-10.42.0.151-443-52508-6,Female,45,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+8.41.222.241-10.42.0.211-443-37920-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-22097-17,Male,60,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-72.21.206.135-52945-443-6,Male,40,Rural,Morning,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+202.77.129.150-10.42.0.211-80-41780-6,Male,55,Rural,Morning,English,College Lab,Science,2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-57608-17,Female,40,Rural,Evening,English,w Central Library,other, 2-4 hours,NON VERBAL,0
+10.42.0.211-115.239.210.141-43633-80-6,Male,75,Rural,Late Night,English,Class Room,Science, 2-4 hours,VERBAL,1
+172.217.3.106-10.42.0.42-443-44990-6,Male,60,Rural,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.211-95.213.11.133-57598-443-6,Male,65,Rural,Late Night,English,Central Library,other, 2-4 hours,VERBAL,1
+10.42.0.42-104.97.95.172-47351-80-6,Male,60,Rural,Late Night,English,Campus Ground,Science,2-4 hours,VERBAL,1
+10.42.0.211-104.192.110.245-49106-443-6,Male,50,Rural,Afternoon,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.42-104.254.66.16-45747-80-6,Male,45,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-5059-53-17,Female,45,Rural,Morning,English,To prepare class Assignments,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-54.230.38.124-47519-80-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+162.208.22.39-10.42.0.151-443-60978-6,Male,40,Rural,Evening,English,w Central Library,Science,2-4 hours,VERBAL,1
+182.22.31.124-10.42.0.211-443-57818-6,Male,40,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+209.10.120.26-10.42.0.211-80-39867-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-23.21.246.117-56963-443-6,Male,35,Rural,Afternoon,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.7.132-10.42.0.151-443-41001-6,Male,40,Rural,Afternoon,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-113.207.48.142-59167-80-6,Male,55,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.6.206-10.42.0.42-443-41474-6,Female,75,Rural,Evening,English,Home,Science, 2-4 hours,NON VERBAL,0
+220.243.219.55-10.42.0.151-80-42898-6,Female,40,Rural,Late Night,English,w Home,Science,Less than an hour,NON VERBAL,0
+174.35.73.77-10.42.0.42-80-40089-6,Male,35,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-104.254.66.16-44699-80-6,Male,45,Rural,Evening,English,Other Places,Science, 5-6 hours,VERBAL,1
+10.42.0.211-64.71.142.96-42054-443-6,Male,40,Rural,Morning,English,Home,Science, 6 and Above,VERBAL,1
+172.217.10.3-10.42.0.151-443-48229-6,Male,75,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-52.84.29.154-47440-443-6,Male,45,Rural,Late Night,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+182.22.25.124-10.42.0.211-443-54109-6,Male,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-92.98.43.13-43477-8577-17,Male,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-115.239.210.141-35808-443-6,Female,40,Rural,Late Night,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-61.155.222.80-55950-80-6,Female,45,Rural,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+175.100.207.231-10.42.0.211-80-35719-6,Male,65,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+180.149.135.239-10.42.0.211-80-60245-6,Female,45,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-10232-53-17,Male,60,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+180.149.136.194-10.42.0.211-80-50575-6,Male,70,Rural,Evening,English,Other Places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.96-58355-443-6,Male,60,Rural,Morning,English,Class Room,Science,g 5-6 hours,NON VERBAL,0
+175.100.207.232-10.42.0.211-80-46720-6,Female,70,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+205.185.216.42-10.42.0.211-80-41784-6,Male,35,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+220.243.219.55-10.42.0.211-80-50901-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-47820-53-17,Male,40,Rural,Morning,English,College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-9577-53-17,Male,60,Rural,Morning,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-5589-17,Male,40,Rural,Afternoon,English,Central Library,Science, Less than an hour,VERBAL,1
+175.100.207.231-10.42.0.42-80-58451-6,Male,40,Rural,Late Night,English,Park or Garden,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-37390-53-17,Female,50,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.3.106-10.42.0.151-443-34323-6,Male,40,Rural,Morning,English,Central Library,Science, Less than an hour,NON VERBAL,0
+172.217.11.14-10.42.0.151-443-59031-6,Male,45,Rural,Evening,English,College Lab,Science,Less than an hour,NON VERBAL,0
+175.100.207.233-10.42.0.211-80-42376-6,Male,50,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+192.229.163.180-10.42.0.211-443-51130-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-25347-53-17,Male,60,Urban,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-77.234.42.92-41668-443-6,Male,30,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.9.226-10.42.0.151-443-45077-6,Male,55,Rural,Evening,English,College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-103.7.30.118-56421-80-6,Male,45,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.141-10.42.0.151-443-39762-6,Male,40,Rural,Morning,English,Class Room,Science,2-4 hours,NON VERBAL,0
+182.254.5.234-10.42.0.151-80-45945-6,Male,35,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-57761-53-17,Female,45,Urban,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.120-35949-80-6,Male,30,Urban,Late Night,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+139.162.45.175-10.42.0.42-80-44515-6,Male,50,Urban,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.151-52.84.29.134-39900-443-6,Male,40,Rural,Afternoon,English,Central Library,Science, 2-4 hours,VERBAL,1
+203.205.158.52-10.42.0.211-80-40318-6,Female,40,Urban,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+203.205.158.61-10.42.0.211-80-53327-6,Male,40,Rural,Late Night,English,Home,Science, 6 and Above,VERBAL,1
+203.205.158.63-10.42.0.151-80-51961-6,Male,25,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+157.240.2.25-10.42.0.211-443-34219-6,Male,35,Rural,Evening,English,Class Room,Science,Less than an hour,NON VERBAL,0
+172.217.3.99-10.42.0.42-443-56481-6,Female,50,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+172.217.10.104-10.42.0.151-443-49201-6,Male,50,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.12.142-10.42.0.151-443-38241-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-125.39.83.108-36365-443-6,Male,55,Rural,Morning,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+173.222.150.38-10.42.0.151-443-40518-6,Female,60,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+174.35.73.93-10.42.0.211-443-36735-6,Female,30,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+209.10.120.26-10.42.0.211-80-48313-6,Male,45,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-18191-53-17,Male,40,Rural,Afternoon,English,Class Room,Science,Less than an hour,VERBAL,1
+162.208.22.39-10.42.0.42-443-55491-6,Female,60,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-65.52.108.74-41781-443-6,Male,45,Rural,Morning,English,w Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-47232-53-17,Male,25,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-106.11.176.1-39404-443-6,Male,35,Rural,Late Night,English,Campus Ground,Science, 2-4 hours,VERBAL,1
+171.84.4.11-10.42.0.42-80-38999-6,Male,40,Rural,Evening,English,w Campus Ground,Science,2-4 hours,NON VERBAL,0
+162.208.22.39-10.42.0.211-443-45169-6,Male,35,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.42-31.13.71.3-36214-443-6,Male,30,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-24876-53-17,Female,60,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-64.71.142.110-54052-80-6,Male,35,Rural,Evening,English,w Home,Science,Less than an hour,VERBAL,1
+239.255.255.250-10.42.0.42-1900-37874-17,Female,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+182.22.24.124-10.42.0.42-443-45890-6,Female,40,Rural,Evening,English,Other Places,Science, 2-4 hours,VERBAL,1
+203.205.191.25-10.42.0.211-80-47717-6,Male,30,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-64.71.142.110-57932-443-6,Female,50,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-31.13.80.5-45947-443-6,Female,60,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-38135-53-17,Male,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-31173-53-17,Female,40,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-77.234.42.92-40756-443-6,Male,25,Rural,Morning,English,w Home,Science, 2-4 hours,NON VERBAL,0
+203.205.158.63-10.42.0.211-80-58579-6,Male,40,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.12.174-10.42.0.151-443-59642-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.9.238-10.42.0.211-443-57385-6,Female,45,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.11.10-10.42.0.211-443-50655-6,Male,60,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-63454-53-17,Female,55,Rural,Morning,English,Other Places,Science, 2-4 hours,VERBAL,1
+219.142.78.162-10.42.0.211-80-53006-6,Male,50,Rural,Morning,English,Class Room,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-69.147.82.60-56406-443-6,Male,65,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-77.234.42.92-39541-443-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-38038-53-17,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+205.185.216.42-10.42.0.211-80-41824-6,Male,35,Rural,Late Night,English,College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-23.219.23.167-38406-80-6,Male,50,Rural,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+172.217.11.14-10.42.0.42-443-51277-6,Female,45,Rural,Evening,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-31123-17,Male,45,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+180.149.153.234-10.42.0.211-80-52402-6,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+182.22.25.124-10.42.0.151-443-37785-6,Male,40,Rural,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.211-36.51.254.232-56316-443-6,Female,40,Rural,Morning,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-119.146.74.33-50804-443-6,Male,50,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-4456-53-17,Female,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-117.121.27.11-38989-80-6,Female,30,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.244.42.129-36398-80-6,Male,55,Rural,Afternoon,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.12.164-10.42.0.151-443-48882-6,Female,60,Rural,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+219.142.78.162-10.42.0.211-80-59537-6,Male,50,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-41677-53-17,Male,35,Rural,Late Night,English,Class Room,Science, 5-6 hours,VERBAL,1
+10.42.0.151-31.13.80.5-34975-443-6,Male,75,Rural,Late Night,English,Central Library,Science, 6 and Above,VERBAL,1
+10.42.0.211-14.29.93.243-35661-80-6,Female,45,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-54447-53-17,Male,30,Rural,Late Night,English,w Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.211-119.146.74.33-50615-443-6,Male,70,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+172.217.7.164-10.42.0.42-443-50076-6,Female,25,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-63090-53-17,Male,45,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-50.17.222.169-53620-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.6.238-10.42.0.151-443-40562-6,Male,35,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-123.125.29.138-40292-80-6,Female,30,Rural,Evening,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.151-23.205.18.73-59388-443-6,Female,40,Urban,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.42-23.208.156.9-55616-443-6,Female,50,Rural,Afternoon,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.12.200-10.42.0.211-443-48040-6,Female,60,Rural,Evening,English,Class Room,Science,g 5-6 hours,VERBAL,1
+172.217.12.202-10.42.0.42-443-45771-6,Male,45,Rural,Evening,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-111.221.77.148-32978-40010-6,Male,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+158.85.48.251-10.42.0.151-443-44770-6,Male,50,Rural,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-54.230.38.227-40978-443-6,Male,50,Urban,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-23.66.169.49-52106-80-6,Male,40,Urban,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.10.142-10.42.0.151-443-55236-6,Female,55,Urban,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-47979-53-17,Female,60,Rural,Evening,English,w College Lab,Science, 2-4 hours,VERBAL,1
+216.58.219.202-10.42.0.151-443-46555-6,Male,40,Urban,Morning,English,w College Lab,Science,2-4 hours,VERBAL,1
+140.205.230.8-10.42.0.211-80-40920-6,Male,45,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+172.217.12.206-10.42.0.211-443-57401-6,Female,40,Rural,Morning,English,w College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-98.139.183.24-35052-443-6,Male,25,Urban,Morning,English,Other Places,Science, 2-4 hours,VERBAL,1
+10.42.0.42-35.185.31.66-44705-443-6,Female,40,Rural,Late Night,English,w Park or Garden,Science, 2-4 hours,VERBAL,1
+172.217.12.142-10.42.0.151-443-49816-6,Male,40,Rural,Late Night,English,w Park or Garden,Science,2-4 hours,VERBAL,1
+183.136.237.235-10.42.0.151-80-35978-6,Male,45,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-95.213.11.181-55235-80-6,Male,50,Rural,Evening,English,w Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-16485-53-17,Male,40,Urban,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-23.206.173.182-47916-80-6,Male,45,Urban,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-56886-53-17,Male,75,Rural,Evening,English,Central Library,Science,2-4 hours,VERBAL,1
+222.73.28.96-10.42.0.211-80-32929-6,Male,25,Rural,Late Night,English,w Park or Garden,Science, 2-4 hours,VERBAL,1
+172.217.10.226-10.42.0.151-443-45561-6,Male,65,Rural,Late Night,English,Central Library,other, 2-4 hours,VERBAL,1
+10.42.0.211-66.198.24.240-37369-443-6,Male,60,Rural,Morning,English,Central Library,Arts,Less than an hour,VERBAL,1
+183.79.253.231-10.42.0.211-443-38947-6,Female,20,Rural,Evening,English,Park or Garden,Science,Less than an hour,VERBAL,1
+203.205.158.60-10.42.0.211-80-41165-6,Male,40,Rural,Afternoon,English,Class Room,Science,Less than an hour,VERBAL,1
+209.10.120.26-10.42.0.211-80-36267-6,Male,40,Rural,Late Night,English,Central Library,Arts, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-50448-53-17,Male,45,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-53268-53-17,Female,60,Rural,Late Night,English,Home,Commerce,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-11694-53-17,Male,40,Rural,Morning,English,Campus Ground,Science, 5-6 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-42713-17,Male,40,Rural,Late Night,English,w Campus Ground,Science, 6 and Above,VERBAL,1
+140.205.230.8-10.42.0.211-80-39677-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.42-123.125.29.138-53465-80-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+202.77.129.150-10.42.0.211-80-40986-6,Male,55,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+198.11.188.75-10.42.0.211-443-38703-6,Female,80,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+157.55.130.155-10.42.0.151-40008-43477-17,Male,45,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-54.243.172.216-43341-443-6,Female,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-119.146.74.48-55156-80-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.11.46-10.42.0.151-443-56324-6,Female,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+239.255.255.250-10.42.0.1-1900-35255-17,Female,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.42-13.107.3.128-39298-443-6,Female,45,Rural,Evening,English,w Other places,Science,Less than an hour,VERBAL,1
+10.42.0.211-52.84.145.136-39307-80-6,Male,30,Rural,Morning,English,Home,Science,g 5-6 hours,VERBAL,1
+173.194.205.188-10.42.0.151-5228-50845-6,Female,60,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-52.84.29.134-39939-443-6,Male,35,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-40380-17,Female,50,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.151-66.231.239.120-60129-80-6,Male,25,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-52.84.29.154-34144-443-6,Male,55,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+175.100.207.231-10.42.0.211-443-40029-6,Male,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+203.205.128.137-10.42.0.211-80-38162-6,Male,30,Rural,Morning,English,College lab,Science,2-4 hours,VERBAL,1
+10.42.0.151-40.122.162.208-34436-443-6,Male,40,Rural,Morning,English,Home,Science,5-6 hours,VERBAL,1
+202.77.129.146-10.42.0.151-80-36574-6,Male,60,Rural,Morning,English,College lab,Science,s 6 and Above,VERBAL,1
+10.42.0.211-10.42.0.1-50692-53-17,Female,45,Rural,Morning,English,College lab,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-20560-53-17,Male,75,Rural,Late Night,English,w Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-98.139.183.24-47192-80-6,Female,50,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+172.217.12.206-10.42.0.151-443-39631-6,Male,40,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+192.229.173.173-10.42.0.151-80-59831-6,Male,40,Rural,Late Night,English,Class Room,Science,Less than an hour,VERBAL,1
+172.217.3.110-10.42.0.211-443-52211-6,Male,45,Rural,Morning,English,w College lab,Science,Less than an hour,VERBAL,1
+203.130.53.126-10.42.0.211-80-52063-6,Female,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-54052-53-17,Male,60,Rural,Morning,English,Central Library,Science,6 and Above,NON VERBAL,0
+172.217.10.3-10.42.0.42-443-57916-6,Female,50,Rural,Morning,English,Home,Science,e 2-4 hours,VERBAL,1
+203.205.191.27-10.42.0.151-80-43278-6,Male,55,Rural,Morning,English,Home,Commerce,e 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-16064-53-17,Female,45,Rural,Morning,English,Home,Commerce,2-4 hours,NON VERBAL,0
+10.42.0.151-40.117.100.83-36994-443-6,Female,50,Rural,Morning,English,Home,Arts,Less than an hour,NON VERBAL,0
+10.42.0.151-106.11.14.99-60617-443-6,Male,40,Rural,Evening,English,Class Room,Commerce,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-30431-53-17,Male,40,Rural,Late Night,English,Central Library,Science,e 2-4 hours,NON VERBAL,0
+10.42.0.211-23.194.141.191-54678-443-6,Male,55,Rural,Morning,English,Central Library,Commerce,Less than an hour,VERBAL,1
+182.22.31.252-10.42.0.151-443-50775-6,Male,55,Rural,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-36409-17,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,NON VERBAL,0
+192.229.173.173-10.42.0.211-80-50505-6,Female,45,Rural,Afternoon,English,Home,Commerce,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-52531-53-17,Female,40,Rural,Morning,English,Home,Arts, 2-4 hours,VERBAL,1
+10.42.0.211-52.192.237.93-54207-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-64224-53-17,Male,55,Rural,Morning,English,Central Library,other,To borrow library materials,VERBAL,1
+180.149.153.234-10.42.0.211-80-38199-6,Male,40,Rural,Evening,English,Home,Science, 2-4 hours,NON VERBAL,0
+216.58.217.68-10.42.0.211-443-43145-6,Female,50,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+172.217.5.227-10.42.0.211-80-54180-6,Female,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-114.112.89.213-57122-80-6,Male,40,Rural,Afternoon,English,w Home,Arts,Less than an hour,NON VERBAL,0
+202.77.129.161-10.42.0.211-80-53974-6,Male,45,Rural,Afternoon,English,w Other places,Science,Less than an hour,NON VERBAL,0
+172.217.10.138-10.42.0.42-443-43622-6,Female,50,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+157.240.2.20-10.42.0.151-443-40585-6,Female,60,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-23241-53-17,Female,60,Rural,Late Night,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-53348-53-17,Male,45,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-23.99.112.73-55565-443-6,Male,30,Rural,Evening,English,w Home,Science,s 6 and Above,VERBAL,1
+198.11.132.221-10.42.0.211-443-49813-6,Male,40,Rural,Morning,English,w Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-54.243.187.254-38235-443-6,Male,55,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-98.139.180.149-36613-443-6,Male,40,Rural,Late Night,English,College lab,Science,2-4 hours,VERBAL,1
+205.185.216.10-10.42.0.211-80-34074-6,Male,35,Rural,Evening,English,Home,Science, 5-6 hours,VERBAL,1
+10.42.0.42-52.179.189.71-48975-443-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.10.35-10.42.0.151-443-36016-6,Male,40,Rural,Late Night,English,Home,other,Less than an hour,VERBAL,1
+10.42.0.1-10.42.0.42-53-63385-17,Female,45,Rural,Afternoon,English,Other places,Science,Less than an hour,VERBAL,1
+10.42.0.211-23.208.217.149-58173-443-6,Male,25,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+180.149.136.194-10.42.0.151-80-56029-6,Male,40,Rural,Evening,English,Home,other,Less than an hour,VERBAL,1
+10.42.0.211-104.79.152.104-44338-443-6,Male,45,Rural,Afternoon,English,w Home,Science,2-4 hours,VERBAL,1
+172.217.12.206-10.42.0.42-443-44223-6,Female,40,Rural,Evening,English,Other places,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-47237-53-17,Male,40,Rural,Morning,English,College lab,Science,Less than an hour,VERBAL,1
+10.42.0.42-23.208.146.200-42329-443-6,Male,45,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-95.213.11.133-60180-443-6,Female,45,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+198.11.132.221-10.42.0.211-443-58026-6,Female,45,Rural,Late Night,English,w Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-77.234.44.41-43117-80-6,Male,40,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-103.235.46.39-56646-80-6,Male,55,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-38.69.238.129-44806-443-6,Male,45,Rural,Afternoon,English,Home,Science,e 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-24603-53-17,Male,55,Rural,Late Night,English,Home,Science,5-6 hours,NON VERBAL,0
+157.240.18.36-10.42.0.211-443-50224-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.202-10.42.0.211-443-48639-6,Female,35,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+239.255.255.250-10.42.0.1-1900-59751-17,Male,45,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-77.234.44.200-38615-80-6,Female,35,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-14392-53-17,Female,55,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-31719-53-17,Male,45,Rural,Morning,English,w Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-10575-53-17,Female,45,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-14898-53-17,Male,40,Rural,Evening,English,Class Room,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-44934-53-17,Male,40,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-123.125.29.220-46051-80-6,Male,40,Rural,Morning,English,College lab,Science,Less than an hour,NON VERBAL,0
+174.36.210.41-10.42.0.211-5222-55916-6,Male,45,Rural,Late Night,English,College lab,Science,Less than an hour,VERBAL,1
+169.47.40.147-10.42.0.211-5222-38871-6,Male,45,Rural,Afternoon,English,w Central Library,Science,2-4 hours,VERBAL,1
+172.217.10.237-10.42.0.151-443-57097-6,Male,35,Rural,Late Night,English,Other places,Science,2-4 hours,VERBAL,1
+172.217.11.1-10.42.0.211-443-37012-6,Male,50,Rural,Morning,English,w Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.42-106.39.169.66-33142-443-6,Male,60,Rural,Afternoon,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.10.10-10.42.0.211-443-46834-6,Male,30,Rural,Late Night,English,w Home,Science,Less than an hour,VERBAL,1
+172.217.12.130-10.42.0.151-443-60516-6,Male,25,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-64.71.142.95-37847-443-6,Female,25,Rural,Evening,English,w Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-54.192.38.230-41296-443-6,Male,35,Rural,Evening,English,Central Library,Science,2-4 hours,VERBAL,1
+180.149.138.210-10.42.0.151-80-44661-6,Male,25,Rural,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.151-120.196.211.8-47267-80-6,Female,50,Rural,Afternoon,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-13956-53-17,Female,80,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-29863-53-17,Female,50,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-60909-53-17,Male,35,Rural,Morning,English,College Lab,Science, 2-4 hours,VERBAL,1
+10.42.0.211-52.84.139.205-51703-443-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-66.231.239.122-60695-80-6,Female,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+157.56.52.45-10.42.0.211-40024-60774-17,Male,25,Rural,Afternoon,English,Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-31.13.80.5-46757-443-6,Male,40,Rural,Morning,English,w Home,Science,Less than an hour,VERBAL,1
+172.217.3.106-10.42.0.211-443-34563-6,Male,60,Rural,Morning,English,Home,Science,s 6 and Above,NON VERBAL,0
+10.42.0.42-104.192.110.245-34374-80-6,Male,40,Rural,Late Night,English,w Home,Science,Less than an hour,VERBAL,1
+202.77.129.150-10.42.0.211-80-49357-6,Female,50,Rural,Late Night,English,Home,Science, 6 and Above,VERBAL,1
+172.217.3.110-10.42.0.151-443-54203-6,Female,40,Rural,Evening,English,Home,Science,2-4 hours,VERBAL,1
+172.217.12.162-10.42.0.211-443-47304-6,Male,55,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.151-121.12.98.78-39999-80-6,Male,45,Rural,Morning,English,w Central Library,Science, 2-4 hours,VERBAL,1
+180.163.255.159-10.42.0.211-80-38939-6,Male,35,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.120-39871-80-6,Male,40,Rural,Evening,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+202.77.129.150-10.42.0.211-443-40694-6,Male,35,Urban,Morning,English,Central Library,Science, Less than an hour,NON VERBAL,0
+10.42.0.211-66.231.239.124-52869-443-6,Male,40,Rural,Evening,English,w Home,Science,Less than an hour,VERBAL,1
+182.22.25.124-10.42.0.151-443-56814-6,Female,25,Rural,Late Night,English,College Lab,Science,Less than an hour,VERBAL,1
+180.149.136.194-10.42.0.211-80-48601-6,Male,50,Rural,Morning,English,Park or Garden,Science, Less than an hour,VERBAL,1
+172.217.10.97-10.42.0.211-443-59433-6,Male,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-69.147.82.60-49050-443-6,Male,60,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-23695-53-17,Male,55,Urban,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-12708-53-17,Male,40,Urban,Morning,English,w Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-104.244.43.35-51724-443-6,Female,45,Urban,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-27551-53-17,Male,40,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.10.227-10.42.0.211-80-50200-6,Male,60,Urban,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.6.238-10.42.0.42-443-48857-6,Male,40,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-66.198.24.224-45257-443-6,Female,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-31312-53-17,Female,45,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+183.57.48.84-10.42.0.211-80-37804-6,Male,50,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
+172.217.10.42-10.42.0.211-443-43044-6,Male,40,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+182.22.65.136-10.42.0.211-443-55514-6,Male,35,Rural,Morning,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+10.42.0.42-37.1.204.175-60595-80-6,Male,60,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.42-54.239.17.112-44058-443-6,Male,50,Rural,Morning,English,Park or Garden,Science, 6 and Above,VERBAL,1
+10.42.0.211-98.139.199.204-39653-443-6,Male,80,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-106.39.169.66-42629-80-6,Female,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.151-10.42.0.1-19337-53-17,Male,75,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-106.39.162.36-39575-80-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-32985-53-17,Male,40,Rural,Morning,English,College Lab,Science,Less than an hour,VERBAL,1
+10.42.0.211-66.231.239.95-46097-443-6,Male,40,Rural,Morning,English,College Lab,Science,Less than an hour,NON VERBAL,0
+198.51.152.178-10.42.0.151-443-35247-6,Male,35,Rural,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-43293-53-17,Male,45,Rural,Evening,English,Class Room,Science, 2-4 hours,VERBAL,1
+157.240.2.20-10.42.0.211-443-37822-6,Male,45,Rural,Afternoon,English,Park or Garden,Science,Less than an hour,VERBAL,1
+182.22.67.86-10.42.0.151-443-45294-6,Female,60,Rural,Morning,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-31.13.80.5-42722-443-6,Female,75,Rural,Afternoon,English,Campus Ground,Science,Less than an hour,NON VERBAL,0
+10.42.0.151-52.84.61.201-44991-80-6,Male,45,Rural,Late Night,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.42-52.216.80.202-51060-80-6,Female,40,Rural,Late Night,English,Central Library,Science,2-4 hours,NON VERBAL,0
+10.42.0.151-66.102.255.44-46535-443-6,Female,45,Rural,Morning,English,To prepare class Assignments,Science, 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-14168-53-17,Male,70,Rural,Late Night,English,Home,Science,2-4 hours,VERBAL,1
+182.22.24.124-10.42.0.211-443-41755-6,Female,20,Rural,Morning,English,w Central Library,Science,2-4 hours,VERBAL,1
+172.217.2.170-10.42.0.42-443-45473-6,Male,30,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-14707-53-17,Female,55,Rural,Afternoon,English,Home,Science,Less than an hour,VERBAL,1
+172.217.6.227-10.42.0.151-80-36504-6,Female,40,Rural,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.97.95.172-34736-80-6,Male,30,Rural,Morning,English,w Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-23.217.155.120-47527-80-6,Female,35,Rural,Evening,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.42-104.193.88.109-46391-80-6,Male,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-66.198.24.250-35796-443-6,Female,55,Rural,Afternoon,English,w Home,Science,Less than an hour,VERBAL,1
+180.149.153.234-10.42.0.211-80-39543-6,Female,40,Rural,Evening,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-19185-53-17,Male,40,Rural,Evening,English,Other Places,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-52.84.29.154-57106-443-6,Female,55,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-10.42.0.1-41977-53-17,Female,60,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-72.21.206.135-42531-443-6,Male,60,Rural,Morning,English,Park or Garden,Science,Less than an hour,VERBAL,1
+216.58.217.99-10.42.0.42-443-60170-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-18053-17,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,NON VERBAL,0
+172.217.3.110-10.42.0.151-443-50648-6,Male,45,Rural,Evening,English,w Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-107.22.238.80-59204-443-6,Male,40,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.42-64.71.142.120-52444-80-6,Male,60,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.12.170-10.42.0.151-443-35455-6,Male,50,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.227-10.42.0.211-443-46629-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,NON VERBAL,0
+10.42.0.151-52.84.40.212-55408-80-6,Male,55,Rural,Late Night,English,Other Places,Science,2-4 hours,VERBAL,1
+10.42.0.211-52.52.92.30-43924-443-6,Male,40,Rural,Late Night,English,Class Room,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-51401-17,Male,35,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-72.247.70.190-47901-80-6,Male,55,Rural,Evening,English,Home,Science, 2-4 hours,VERBAL,1
+172.217.10.142-10.42.0.151-443-38993-6,Male,40,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-48052-53-17,Male,40,Rural,Morning,English,College Lab,Science,2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-7979-53-17,Female,40,Rural,Evening,English,Park or Garden,Science, 2-4 hours,NON VERBAL,0
+10.42.0.211-10.42.0.1-41308-53-17,Male,50,Rural,Late Night,English,Central Library,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-44435-17,Female,40,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-60374-53-17,Male,30,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.42-14.17.42.57-36873-80-6,Male,40,Rural,Evening,English,Central Library,Science,Less than an hour,NON VERBAL,0
+172.217.12.206-10.42.0.211-443-56968-6,Female,55,Rural,Afternoon,English,College Lab,Science, 2-4 hours,NON VERBAL,0
+172.217.11.46-10.42.0.211-443-33549-6,Male,30,Rural,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-52.3.131.159-57256-443-6,Male,60,Rural,Morning,English,Home,Science,2-4 hours,VERBAL,1
+10.42.0.211-106.11.30.199-45332-80-6,Male,30,Rural,Late Night,English,Home,Science, 5-6 hours,VERBAL,1
+222.73.28.96-10.42.0.42-80-41340-6,Male,40,Rural,Morning,English,Home,Science, 6 and Above,VERBAL,1
+10.42.0.151-10.42.0.1-37899-53-17,Male,40,Rural,Late Night,English,College Lab,Science,2-4 hours,NON VERBAL,0
+205.204.101.196-10.42.0.151-443-43610-6,Male,25,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-121.12.98.85-55353-80-6,Male,50,Rural,Late Night,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.24.19.3-47571-80-6,Male,50,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.42-123.125.29.138-53465-80-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+8.0.6.4-8.6.0.1-0-0-0,Male,25,Rural,Morning,English,w Park or Garden,Science,Less than an hour,VERBAL,1
+172.217.12.161-10.42.0.42-443-45568-6,Female,50,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+172.217.10.66-10.42.0.151-443-54654-6,Male,40,Rural,Morning,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-64.71.142.124-49447-443-6,Male,40,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-106.39.162.36-54475-80-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.11.13-10.42.0.42-443-59532-17,Male,30,Rural,Evening,English,Home,Science,g 5-6 hours,VERBAL,1
+10.42.0.211-10.42.0.1-53876-53-17,Female,40,Rural,Morning,English,Class Room,Science,Less than an hour,VERBAL,1
+10.42.0.151-52.94.232.33-34690-443-6,Female,40,Rural,Late Night,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.211-104.193.88.109-37715-80-6,Male,35,Rural,Late Night,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-18267-53-17,Female,45,Rural,Morning,English,Central Library,Science, 2-4 hours,VERBAL,1
+157.240.2.25-10.42.0.151-443-42043-6,Male,60,Rural,Morning,English,w Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.1-10.42.0.42-53-62105-17,Female,40,Rural,Morning,English,Central Library,other,2-4 hours,VERBAL,1
+10.42.0.211-52.9.59.64-37404-443-6,Female,45,Rural,Morning,English,Central Library,Arts, 2-4 hours,NON VERBAL,0
+175.100.207.233-10.42.0.211-443-48721-6,Female,55,Rural,Morning,English,Park or Garden,Science, 2-4 hours,VERBAL,1
+10.42.0.211-118.123.114.134-37874-80-6,Male,40,Rural,Morning,English,Class Room,Science, 2-4 hours,VERBAL,1
+10.42.0.211-14.17.42.57-58155-80-6,Male,55,Rural,Morning,English,Central Library,Arts, 2-4 hours,VERBAL,1
+10.42.0.42-54.192.38.65-33427-443-6,Female,60,Rural,Morning,English,w Home,Science,2-4 hours,NON VERBAL,0
+10.42.0.211-66.102.255.61-36649-443-6,Male,40,Rural,Late Night,English,Home,Commerce,Less than an hour,VERBAL,1
+216.58.219.228-10.42.0.151-443-50626-6,Male,20,Rural,Late Night,English,Campus Ground,Science, 2-4 hours,VERBAL,1
+172.217.11.10-10.42.0.151-443-33873-6,Male,40,Rural,Late Night,English,w Campus Ground,Science, 2-4 hours,NON VERBAL,0
+216.58.219.238-10.42.0.211-443-33673-6,Male,35,Rural,Late Night,English,Home,Science,Less than an hour,NON VERBAL,0
+209.10.120.26-10.42.0.211-80-60581-6,Male,30,Rural,Morning,English,Central Library,Science,2-4 hours,VERBAL,1
+10.42.0.151-52.216.1.211-60635-443-6,Male,45,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.42-119.146.74.33-40540-443-6,Male,55,Rural,Morning,English,w Home,Science, 2-4 hours,VERBAL,1
+202.77.129.150-10.42.0.42-443-33854-6,Male,65,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+172.217.12.202-10.42.0.211-443-60631-6,Male,45,Rural,Morning,English,Other Places,Science,Less than an hour,VERBAL,1
+10.42.0.151-106.11.95.2-42048-443-6,Male,55,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.10.78-10.42.0.211-80-39067-6,Male,55,Rural,Morning,English,Home,Science, 2-4 hours,VERBAL,1
+10.42.0.151-23.194.141.191-46457-443-6,Female,50,Rural,Evening,English,Park or Garden,Science,Less than an hour,VERBAL,1
+180.149.136.194-10.42.0.211-80-41609-6,Male,60,Rural,Late Night,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.10.142-10.42.0.211-443-50431-6,Male,40,Rural,Morning,English,Central Library,Science, 5-6 hours,VERBAL,1
+10.42.0.42-104.46.105.95-51094-443-6,Male,30,Rural,Late Night,English,w Home,Science, 6 and Above,VERBAL,1
+172.217.12.142-10.42.0.211-80-46261-6,Male,45,Rural,Late Night,English,Central Library,Science,2-4 hours,VERBAL,1
+203.205.158.62-10.42.0.42-80-51422-6,Female,20,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+182.22.24.252-10.42.0.211-443-52430-6,Male,65,Rural,Morning,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.3.106-10.42.0.42-443-57858-6,Male,35,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+10.42.0.211-31.13.80.52-42536-443-6,Male,40,Rural,Morning,English,Other Places,Science,Less than an hour,VERBAL,1
+10.42.0.211-103.235.46.211-44596-443-6,Female,40,Rural,Evening,English,Class Room,Science,Less than an hour,VERBAL,1
+203.205.158.62-10.42.0.42-80-52241-6,Male,40,Rural,Afternoon,English,Home,Science, 2-4 hours,VERBAL,1
+216.58.219.226-10.42.0.42-443-54807-6,Male,40,Rural,Morning,English,Home,Science,Less than an hour,VERBAL,1
+205.185.216.42-10.42.0.42-80-40425-6,Female,40,Rural,Afternoon,English,Home,Science, 2-4 hours,NON VERBAL,0
+172.217.3.110-10.42.0.151-443-55950-6,Male,45,Rural,Afternoon,English,College Lab,Science,Less than an hour,VERBAL,1
+172.217.10.68-10.42.0.211-443-36178-6,Male,30,Urban,Morning,English,Park or Garden,Science,g 5-6 hours,NON VERBAL,0
+10.42.0.211-115.239.210.141-54373-443-6,Male,45,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+10.42.0.211-104.192.110.245-53189-80-6,Female,30,Rural,Late Night,English,Park or Garden,Science,Less than an hour,VERBAL,1
+10.42.0.211-10.42.0.1-5022-53-17,Male,55,Rural,Evening,English,Home,Science,Less than an hour,NON VERBAL,0
+172.217.8.3-10.42.0.151-443-54365-6,Female,40,Rural,Evening,English,Central Library,Science,Less than an hour,VERBAL,1
+172.217.11.14-10.42.0.151-443-52462-6,Male,40,Rural,Morning,English,College Lab,Science,Less than an hour,NON VERBAL,0
+10.42.0.1-10.42.0.42-53-62200-17,Male,80,Urban,Late Night,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.42-54.192.38.154-59368-443-6,Male,50,Urban,Late Night,English,Home,Commerce,2-4 hours,NON VERBAL,0
+10.42.0.151-10.42.0.1-64423-53-17,Male,35,Urban,Evening,English,Home,Commerce,5-6 hours,VERBAL,1
+182.22.31.252-10.42.0.211-443-48481-6,Male,50,Rural,Morning,English,Home,Arts,s 6 and Above,VERBAL,1
+10.42.0.42-54.70.122.167-36859-443-6,Male,40,Urban,Late Night,English,College Lab,Commerce,2-4 hours,VERBAL,1
+180.76.150.180-10.42.0.211-80-39052-6,Male,45,Rural,Afternoon,English,Home,Science,2-4 hours,VERBAL,1
+180.76.182.155-10.42.0.211-80-52173-6,Male,25,Rural,Morning,English,Class Room,Commerce,Less than an hour,NON VERBAL,0
+172.217.7.163-10.42.0.211-443-50371-6,Male,40,Rural,Evening,English,Central Library,Science,2-4 hours,NON VERBAL,0
+203.130.53.126-10.42.0.211-80-50489-6,Male,40,Rural,Afternoon,English,Central Library,Science,Less than an hour,NON VERBAL,0
+10.42.0.211-10.42.0.1-11933-53-17,Male,30,Rural,Evening,English,w Park or Garden,Commerce,Less than an hour,VERBAL,1
+172.217.12.131-10.42.0.151-443-52803-6,Male,40,Rural,Morning,English,Class Room,Arts,Less than an hour,NON VERBAL,0
+10.42.0.151-10.42.0.1-38907-53-17,Male,40,Rural,Morning,English,Central Library,Science,6 and Above,NON VERBAL,0
+174.36.210.41-10.42.0.42-443-53232-6,Male,60,Rural,Late Night,English,Home,other,e 2-4 hours,VERBAL,1
+157.56.52.23-10.42.0.42-40033-36469-6,Female,40,Rural,Late Night,English,Home,Science,e 2-4 hours,VERBAL,1
+10.42.0.211-10.42.0.1-44543-53-17,Male,45,Rural,Morning,English,Home,Science,2-4 hours,NON VERBAL,0
+172.217.10.138-10.42.0.211-443-48078-6,Male,45,Rural,Morning,English,Class Room,Science,Less than an hour,NON VERBAL,0
